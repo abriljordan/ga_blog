@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Data Design Support
+# Data Design Support
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
