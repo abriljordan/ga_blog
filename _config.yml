@@ -20,22 +20,29 @@
 
 title: Data+Design Support
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Data+Design support page
 baseurl: "/data-design-support" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
-#theme: minima
 theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs@v0.3.0
-
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+nav_links:
 plugins:
   - jekyll-feed
+
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
