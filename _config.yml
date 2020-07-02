@@ -22,10 +22,10 @@ title: Data+Design Support
 email: your-email@example.com
 description: Data+Design support page
 baseurl: "/data-design-support" # the subpath of your site, e.g. /blog
-url: "https://abriljordan.github.io/data-design-support/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: just-the-docs
+#theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs@v0.3.0
 color_scheme: light
 search_enabled: true
