@@ -8,4 +8,4 @@ true permalink: /docs/working-with-dashboard
 
 # Working with Dashboard
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+Below is a list of skills you’ll learn as you go through this guide and get familiar with your Dashboard. Click any skill to go directly to that section.
