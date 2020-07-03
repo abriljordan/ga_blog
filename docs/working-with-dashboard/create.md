@@ -19,28 +19,28 @@ nav_order: 1
 
 ## Dashboard
 
-Create dashboard
+### Create dashboard
 1. Go to: main dashboard page.
 2. Click the Gear button and choose Create Dashboard.
 3. In the dialog that appears, enter the new dashboard name. You can toggle the switch to make it a default dashboard.
 4. Once you're done, click the Create button.
 
-Edit dashboard
+### Edit dashboard
 1. Go to: main dashboard page.
 2. Choose the dashboard in the dashboard selector.
 3. Click the Gear button and choose Edit Dashboard.
 4. In the dialog that appears, update the dashboard name.
 5. Once you're done, click the Update button.
 
-Delete dashboard
+### Delete dashboard
 1. Go to: main dashboard page.
 2. Choose the dashboard in the dashboard selector.
 3. Click the Gear button and choose Delete Dashboard, then click Confirm to delete.
 
 ## Indicator
 
-Add existing indicator
-You can add an existing indicator in the dashboard.
+### Add existing indicator
+You can add an existing indicator to a section.
 
 1. Choose the section where you want to add the indicator.
 2. Click the plus button ( + ), a menu appears, and choose Existing.
@@ -48,7 +48,7 @@ You can add an existing indicator in the dashboard.
 4. Choose from the lists of existing indicators.
 5. Once you’re done, click the Create button.
 
-Upload indicator
+### Upload indicator
 To upload an indicator from your computer, do the following.
 
 1. Choose the section where you want to upload the indicator.
