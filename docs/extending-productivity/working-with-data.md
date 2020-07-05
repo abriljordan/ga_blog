@@ -44,4 +44,52 @@ You can also send or export the detailed data from the detail view of an indicat
 
 ## Manage
 ### Users
+Add users individually
+1. Go to the > Admin Console > Permissions > Users
+2. Click the `Create User` button. A dialog appears.
+3. Fill in required fields indicated with red asterisks.
+4. In the `Role` field, click on the `Disclosure` button, a list of options appears. Choose an appropriate role for the user.
+5. Click the `Create` button.
+
+Add users in bulk
+1. Go to the > Admin Console > Permissions > Users
+2. Click the `Bulk Create User` button, a dialog appears.
+3. Click the `Select File`, and upload a file from your computer or from whatever your CSV is located.
+4. Select the correct field to map each column of data. Click on the `Disclosure` button to reveal information on each field.
+5. Fill in other fields.
+6. Click the `Create` button.
+
+Bulk Edit Users
+1. Go to the > Admin Console > Permissions > Users
+2. To select user(s), check the box to the left of the username.
+3. After selecting the user(s), click the `Bulk Edit` button. A dialog appears.
+4. Update the information in the dialog.
+5. Once you're done, click `Update All` button.
+
+Bulk Delete users
+1. Go to the > Admin Console > Permissions > Users
+2. Select user(s) to edit/update from the list of users.
+3. After selecting the user(s), click the `Bulk Edit`. A dialog appears.
+4. Click `Delete All` button.
+
+Delete a user
+1. Go to the > Admin Console > Permissions > Users
+2. Find the account that you want to delete. You can use the Search and select the user you want to delete.
+3. Click the `Trash bin` button, then click Confirm.
+
+View user activity
+
+The Dashboard keeps track of a user’s activities. It logs the dashboard visited and logged in time.
+
+1. Go to the > Admin Console > Permissions > Users
+2. Find the account that you want to view its activity.
+3. Choose a user.
+4. Under the Action column heading, click User Activity. It will take you to a page where you can view the user activity.
+
+Reset password
+1. Go to the > Admin Console > Permissions > Users
+2. Find the account that you want to reset its password. You can use Search to find records.
+3. To reset user password, click on `Reset Password`. The user will get an email notification containing the temporary password.
+
+
 ### School
