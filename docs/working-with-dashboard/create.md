@@ -84,11 +84,14 @@ Maybe your indicator needs a little something else to make it more impactful. Yo
 
 ## Resize chart
 ### Resize all charts
-You can resize charts in a dashboard all at once in just one click. Click on its Gear, a pop-up menu appears. Choose the last option at the bottom of the pop-up menu which is a set of squares. The number of squares indicates what the size of the charts would be.
+You can resize charts in a dashboard all at once in just one click.
+1. Go to: main dashboard.
+2. Click on the `Gear` button, a pop-up menu appears. At the bottom of the menu, there are three squares, each represent the size of the chart.
+2. Choose one of the three squares by clicking.
 
 ### Resize a single chart
-1. Click on the indicator's Gear, a menu appears.
-2. At the bottom of the menu, there are three squares, each represent the size of the chart. Click on the desired chart.
+1. Click on the indicator's `Gear` button, a menu appears. At the bottom of the menu, there are three squares, each represent the size of the chart.
+2. Choose one of the three squares by clicking.
 
 ## Tile
 ### Delete Tile
