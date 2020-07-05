@@ -32,14 +32,14 @@ With `Alert Me`, you can define alerts to track progress on specific indicators.
 Share and export dashboard
 
 You can send an email with dashboard reports or export your data.
-1. In your dashboard, click on the Share Arrow button. A menu appears. You can choose to export it as CSV, Microsoft PowerPoint, PDF, Microsoft Excel, Print, or send as email.
-2. If you choose email, a popup dialog appears, and fill in required information.
-Once you are done, click the Send Email button.
+1. In your dashboard, click on the `Share Arrow` button, a menu appears. You can choose to export it as CSV, Microsoft PowerPoint, PDF, Microsoft Excel, Print, or send as email.
+2. If you choose email, a dialog appears, and fill in required information.
+3. Once you are done, click the `Send Email` button.
 
 You can also send or export the detailed data from the detail view of an indicator.
 1. Go to: detail view of an indicator by clicking on its name. You will be taken to another page.
 2. Double click on the chart. You will be taken to the tabular view of the chart.
-3. Click on the Share arrow button. A pop-up dialog appears. You can choose to export it as CSV or Excel.
+3. Click on the `Share Arrow` button. A dialog appears. You can choose to export it as CSV or Excel.
 
 
 ## Manage
