@@ -82,40 +82,44 @@ Maybe your indicator needs a little something else to make it more impactful. Yo
 2. Click on the color that you want to change and pick the color scheme you want.
 3. Once you’re done, click the `Update` button.
 
-## Resize a chart
+## Resize chart
 ### Resize all charts
 You can resize charts in a dashboard all at once in just one click. Click on its Gear, a pop-up menu appears. Choose the last option at the bottom of the pop-up menu which is a set of squares. The number of squares indicates what the size of the charts would be.
 
 ### Resize a single chart
-Click on its Gear, a pop-up menu appears. Choose the last option at the bottom of the pop-up menu which is a set of squares. The number of squares indicates what the size of the charts would be.
+1. Click on the indicator's Gear, a menu appears.
+2. At the bottom of the menu, there are three squares, each represent the size of the chart. Click on the desired chart.
 
 ## Tile
 ### Delete Tile
-Choose the indicator you want to delete. Click on its Gear button and choose Delete. Click the Confirm button if you want to proceed in deletion. The indicator will no longer be available in the dashboard.
+1. Click on the indicator's `Gear` button and choose Delete.
+2. Click the Confirm button if you want to proceed in deletion. The indicator will no longer be available in the dashboard.
 
 ### Remove Tile
-Choose the indicator you want to remove from the section. Click on its Gear button and choose Remove. Click the Confirm button if you want to proceed in removing it. It is still available if you want to add it back in the dashboard.
+1. Click on the indicator's `Gear` button and choose Remove.
+2. Click the Confirm button if you want to proceed in removing it. It is still available if you want to add it back in the dashboard.
 
 ## Section
 ### Create section
 1. Go to: main dashboard
-2. Click the Add button. A pop-up dialog appears.
-3. Enter a name for your section.
-4. Once you’re done, click the Create button.
+2. Click the `Gear` button. A dialog appears.
+3. Select `Mange Sections`. A dialog appears.
+4. Click the `Add` button. A dialog appears. Enter the name for your section.
+4. Once you’re done, click the `Create` button.
 
 ### Edit section name
 1. Go to: main dashboard
-2. Click on the Edit Section (pencil) button of the section. A dialog appears.
+2. Click on the `Pencil` button of the section. A dialog appears.
 3. Give the section a new name.
-4. Once you’re done, click the Update button.
+4. Once you’re done, click the `Update` button.
 
 ### Rearrange section
-1. Go to: main dashboard. You can rearrange the position of each section.
-2. Click the Gear button and choose Manage Sections. A pop-up dialog appears.
+1. Go to: main dashboard.
+2. Click the `Gear` button and choose `Manage Sections`. A dialog appears.
 3. Click and drag the section to reorder.
-4. Once you’re done, click the Update button.
+4. Once you’re done, click the `Update` button.
 
 ### Delete a section
 1. Go to: main dashboard
-2. Click on the Delete Section (bin) button of the section. A dialog appears.
-3. Click the Confirm button.
+2. Click on the `Trash bin` button of the section. A dialog appears.
+3. Click the `Confirm` button to proceed.
