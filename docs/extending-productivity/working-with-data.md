@@ -84,7 +84,7 @@ The Dashboard keeps track of a user’s activities. It logs the dashboard visite
 1. Go to the > Admin Console > Permissions > Users
 2. Find the account that you want to view its activity.
 3. Choose a user.
-4. Under the Action column heading, click User Activity. It will take you to a page where you can view the user activity.
+4. Under the `Action` column heading, click `User Activity`. It will take you to a page where you can view the user activity.
 
 Reset password
 1. Go to the > Admin Console > Permissions > Users
@@ -93,3 +93,21 @@ Reset password
 
 
 ### School
+
+Create Discipline Codes
+1. Go to the Admin Console > School setup > Discipline Codes
+2. Click the `Create Discipline Code` button, a dialog appears.
+3. Fill in the required fields, that is, code and discipline score.
+4. Click the `Create` button.
+
+Create Attendance Code
+1. Go to the Admin Console > School setup > Attendance Codes
+2. Click the `Create Attendance Code` button, a dialog appears.
+3. Fill in the required fields, that is, code, attendance type, absent, tardy and truant.
+4. Click the `Create` button.
+
+Create a new event
+Go to the Admin Console > School setup > Calendar
+1. To create a new calendar event, click the `Create Event` button, a dialog appears.
+2. Name your new event, give it a description, choose a start and end date, and the type of the event. The `Event Type` is a dropdown list where you just select the appropriate type of event.
+3. Click the `Create` button.
