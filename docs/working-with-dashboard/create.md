@@ -18,23 +18,27 @@ nav_order: 1
 ---
 
 ## Dashboard
+
+The Data+Design web application allows you to create, edit and delete dashboard, sections and indicators. To do so, you must be signed in with an administrator account.
+
 ### Create dashboard
-1. Go to: main dashboard page.
-2. Click the `Gear` button and choose `Create Dashboard`.
-3. In the dialog that appears, enter the new dashboard name. You can toggle the switch to make it a default dashboard.
-4. Once you're done, click the `Create` button.
+1.	To create a new empty dashboard from scratch, click the `Gear` on the main page. Small drop-down menu will open.
+2.	Click the `Create Dashboard` from the menu, a small pop-up window will open.
+3.	Enter the new dashboard name. You can make it into a default dashboard by clicking the `Default` toggle switch.
+4.	Once you’re done, click the `Create` button.
 
 ### Edit dashboard
-1. Go to: main dashboard page.
-2. Choose the dashboard in the dashboard selector.
-3. Click the `Gear` button and choose `Edit Dashboard`.
-4. In the dialog that appears, update the dashboard name.
-5. Once you're done, click the `Update` button.
+1.	To make changes on a dashboard, open the dashboard first using `Dashboard Selector` located in the main page.
+2.	Click the `Gear` from the dashboard.
+3.	From the drop-down menu, click `Edit Dashboard`. A popover window will appear for editing the dashboard.
+4.	Change the name of the dashboard in the name field and then click `Create`.
 
 ### Delete dashboard
-1. Go to: main dashboard page.
-2. Choose the dashboard in the dashboard selector.
-3. Click the `Gear` button and choose `Delete Dashboard`, then click `Confirm` to proceed.
+Warning
+Deleting a dashboard will also remove any sections, indicators and alerts you have configured on that dashboard.
+To delete a dashboard you are currently viewing, follow these steps:
+1.	Click the `Gear` from the dashboard.
+2.	From the drop-down menu, click `Delete Dashboard`, and then click `Confirm` to proceed.
 
 ## Indicator
 ### Add existing indicator

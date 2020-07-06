@@ -48,7 +48,6 @@ heading_anchors: true
 
 nav_sort: case_insensitive
 
-
 compress_html:
   clippings: all
   comments: all
