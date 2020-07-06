@@ -65,23 +65,19 @@ You can upload external data in a .csv or excel format through the user interfac
 3.	In the `Caption` field, type the new name for the indicator. You may also want to put some information in the `Info` text field.
 4.	Click `Update` to apply changes.
 
-
-
 ## Cohort
-1. Go to: main dashboard.
-2. Click on the `Upload Cohort` button located in the set of controls just above the sections. You will be presented with a new set of controls.
-3. In the `Details` section, upload the CSV or excel file. Once you’re done, click the `Next` button.
-4. In the `Student details and dataset` section, fill in the required fields, namely, Type, Cohort Name, Filter, Import Type.
-5. Once you’re done, click `Submit`.
+1.	Create cohort file for uploading (csv or excel).
+2.	Navigate to the dashboard and click `Upload Cohort` located just above the sections. A new user interface will appear to help you upload cohort.
+3.	In the `Details` section, upload the .csv or excel file.
+4.	Once you’re done, click `Next`.
+5.	In the `Student Details and Dataset` section, fill in the required fields.
+6.	Once you’re done, click `Submit`.
 
 If it was successful, a message should display informing the file was uploaded.
-
-Tip: To help you identify required fields, a red asterisk to the left of the field label indicates that the field must be entered before you can submit.
 
 ## Chart
 ### Change chart color
 Maybe your indicator needs a little something else to make it more impactful. You can change the color of your chart.
-
 1. Choose the chart that you want to change. Click the `Gear` button and choose `Change Color`.
 2. Click on the color that you want to change and pick the color scheme you want.
 3. Once you’re done, click the `Update` button.
@@ -89,44 +85,42 @@ Maybe your indicator needs a little something else to make it more impactful. Yo
 ## Resize chart
 ### Resize all charts
 You can resize charts in a dashboard all at once in just one click.
-1. Go to: main dashboard.
-2. Click on the `Gear` button, a pop-up menu appears. At the bottom of the menu, there are three squares, each represent the size of the chart.
-2. Choose one of the three squares by clicking.
+1. Navigate the dashboard and click the `Gear` button located just above the sections. A drop-down menu appears.
+2. From the menu click the `squares` to resize the charts in the dashboard.
+
 
 ### Resize a single chart
-1. Click on the indicator's `Gear` button, a menu appears. At the bottom of the menu, there are three squares, each represent the size of the chart.
-2. Choose one of the three squares by clicking.
+1. Navigate the Card and click the `Gear` button, a drop-down menu appears.
+2. From the menu click the `squares` to resize the charts in the dashboard.
 
-## Tile
-### Delete Tile
-1. Click on the indicator's `Gear` button and choose Delete.
-2. Click the Confirm button if you want to proceed in deletion. The indicator will no longer be available in the dashboard.
+## Card
+### Delete Card
+1. Navigate the Card and click the `Gear` button, a drop-down menu appears.
+2. From the menu, click `Delete Dashboard`.
 
-### Remove Tile
+### Remove Card
 1. Click on the indicator's `Gear` button and choose Remove.
-2. Click the Confirm button if you want to proceed in removing it. It is still available if you want to add it back in the dashboard.
+2. Click `Confirm` to remove card from the section.
 
 ## Section
 ### Create section
-1. Go to: main dashboard
-2. Click the `Gear` button. A dialog appears.
-3. Select `Mange Sections`. A dialog appears.
-4. Click the `Add` button. A dialog appears. Enter the name for your section.
-4. Once you’re done, click the `Create` button.
+1. Navigate the dashboard and click the `Gear` button located just above the sections. A drop-down menu appears.
+2. From the menu, click `Manage Sections`, a popover dialog appears.
+3. From the dialog, click `Add`, a popover dialog appears.
+4. Enter the new section name.
+5. Once you’re done, click `Create`.
 
 ### Edit section name
-1. Go to: main dashboard
-2. Click on the `Pencil` button of the section. A dialog appears.
+1. Navigate the section and click the `Pencil` button. A small dialog appears.
 3. Give the section a new name.
-4. Once you’re done, click the `Update` button.
+4. Once you’re done, click `Update`.
 
 ### Rearrange section
-1. Go to: main dashboard.
-2. Click the `Gear` button and choose `Manage Sections`. A dialog appears.
+1. Navigate the dashboard and click the `Gear` button, a drop-down menu appears.
+2. Select `Manage Sections`, a popover window appears.
 3. Click and drag the section to reorder.
-4. Once you’re done, click the `Update` button.
+4. Once you’re done, click `Update`.
 
 ### Delete a section
-1. Go to: main dashboard
-2. Click on the `Trash bin` button of the section. A dialog appears.
-3. Click the `Confirm` button to proceed.
+1. Navigate the section and click the `Trash bin` button. A small dialog appears.
+2. Click `Confirm` to delete section.
