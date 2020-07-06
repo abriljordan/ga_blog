@@ -42,29 +42,29 @@ To delete a dashboard you are currently viewing, follow these steps:
 
 ## Indicator
 ### Add existing indicator
-You can add an existing indicator to a section.
+Add existing indicator to a section.
+1.	Navigate the dashboard and click the ` plus (+) ` of the section.
+2.	From the drop-down menu, click `Existing`. A popover window will appear to help add indicator in the dashboard.
+3.	Click the `Disclosure` button, and then click on the choose indicator.
+4.	Once you’re done, click `Create`.
 
-1. Choose the section where you want to add the indicator.
-2. Click the `plus (+)` button, a menu appears, and choose `Existing`.
-3. In the dialog that appears, click the `Disclosure` button, then choose an indicator from the lists.
-4. Once you’re done, click the `Create` button.
-
-### Upload indicator
-To upload an indicator from your computer, do the following.
-
-1. Choose the section where you want to upload the indicator.
-2. Click the `plus (+)` button, a menu appears, and choose `Upload`.
-3. In the `Details` section that appears, upload the CSV by drag and drop or browse the file in your computer, then click the `Next` button.
-4. In the `Select Columns` section, select the columns that you want to be included in the indicator, and then click the `Next` button.
-5. You can view the data in the `Preview` section, and then click the `Next` button.
-6. Select the update mode in the `Update Mode` section, then click the `Next` button.
-7. In the `Name and Describe Your Dataset` section, give the indicator a name and choose the appropriate chart.
-8. Once you’re done, click the `Update` button.
+### To add a dataset (indicator) to a dashboard
+You can upload external data in a .csv or excel format through the user interface.
+1.	Navigate the section where you want to upload the indicator and click `plus (+) `. A drop-down menu appears.
+2.	Click `Upload` from the menu, a user interface will appear to help you upload the dataset.
+3.	In the `Details` section, import the .csv or excel either by drag and drop or browsing the file from computer and click `Next`.
+4.	In the `Select Columns` section, select the columns that you want to be included in the indicator and click the `Next`.
+5.	Preview the dataset in the `Preview` section and click `Next`.
+6.	Select the update mode in the `Update Mode` section and click `Next`.
+7.	In the `Name and Describe Your Dataset` section, give the indicator a name and choose the appropriate chart.
+8.	Once you’re done, click the `Update`.
 
 ### Rename indicator
-1. Click the `Gear` button, a menu appears, and then select `Rename`.
-2. Type a new name for your indicator in the `Caption` text field. You may also want to put some information in the `Info` text field.
-3. Click `Update` to apply changes.
+1.	Navigate the dashboard and click the `Gear` of the indicator. A drop-down menu appears.
+2.	Click `Rename` from the menu, a popover window will appear for editing the name of the indicator.
+3.	In the `Caption` field, type the new name for the indicator. You may also want to put some information in the `Info` text field.
+4.	Click `Update` to apply changes.
+
 
 
 ## Cohort
