@@ -52,11 +52,11 @@ Add existing indicator to a section.
 You can upload external data in a .csv or excel format through the user interface.
 1.	Navigate the section where you want to upload the indicator and click `plus (+) `. A drop-down menu appears.
 2.	Click `Upload` from the menu, a user interface will appear to help you upload the dataset.
-3.	In the `Details` section, import the .csv or excel either by drag and drop or browsing the file from computer and click `Next`.
-4.	In the `Select Columns` section, select the columns that you want to be included in the indicator and click the `Next`.
-5.	Preview the dataset in the `Preview` section and click `Next`.
-6.	Select the update mode in the `Update Mode` section and click `Next`.
-7.	In the `Name and Describe Your Dataset` section, give the indicator a name and choose the appropriate chart.
+3.	Under `Details` section, import the .csv or excel either by drag and drop or browsing the file from computer and click `Next`.
+4.	Under `Select Columns` section, select the columns that you want to be included in the indicator and click the `Next`.
+5.	Preview the dataset under `Preview` section and click `Next`.
+6.	Select the update mode under `Update Mode` section and click `Next`.
+7.	Under `Name and Describe Your Dataset` section, give the indicator a name and choose the appropriate chart.
 8.	Once you’re done, click the `Update`.
 
 ### Rename indicator
@@ -68,9 +68,9 @@ You can upload external data in a .csv or excel format through the user interfac
 ## Cohort
 1.	Create cohort file for uploading (csv or excel).
 2.	Navigate to the dashboard and click `Upload Cohort` located just above the sections. A new user interface will appear to help you upload cohort.
-3.	In the `Details` section, upload the .csv or excel file.
+3.	Under `Details` section, upload the .csv or excel file.
 4.	Once you’re done, click `Next`.
-5.	In the `Student Details and Dataset` section, fill in the required fields.
+5.	Under `Student Details and Dataset` section, fill in the required fields.
 6.	Once you’re done, click `Submit`.
 
 If it was successful, a message should display informing the file was uploaded.
