@@ -20,8 +20,8 @@ nav_order: 2
 ## Setup alerts
 
 With `Alert Me`, you can define alerts to track progress on specific indicators. You can create more than one alert for a single metric and share it with other users of the application.
-1. To set up an alert, choose an indicator.
-2. Click the `Gear` button and then choose `Alert Me`,
+1. To set up an alert, navigate the dashboard and click the `Gear` on your chosen indicator, a drop-down menu appears.
+2. From the menu, click `Alert Me`, a popover window appears.
 3. In the dialog that appears, fill in all required fields indicated by a red asterisk to the left of the field label. Click on the `Disclosure` button to reveal the lists.
 4. Once you're done, click `Next`.
 5. Compose a notification message, and then click `Next`.
