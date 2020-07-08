@@ -53,8 +53,9 @@ You can chart two or more data series on the same chart so that the trends from 
 If you want to revert the changes, click the `Gear` button and then choose `Reset`.
 
 ### Tabular view of the chart
-To drill down to the next level, double click on the chart. When you drill down into another level; a new user interface will appear.
+From the existing chart, you can drill down to the next level, by double clicking the chart.
 
+Values in table form that made the chart possible. Spreadsheet style presentation of data. It provides an interactive way to explore data points and view row-level data in the grid.
 
 
 ### Filter data
