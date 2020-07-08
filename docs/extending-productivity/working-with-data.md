@@ -22,23 +22,26 @@ Drill-down for a chart
 2. Click on the indicator's name. You will taken to another page with a new set of user interface.
 
 ### Toggle between a chart and table in Dashboard
-Visual table shows you the data underlying a visualization. Visual table appears in the Detail view of the indicator. To toggle between two different visuals from chart view to data table and vice versa, click on the `Toggle` button.
+Visual table shows you the data underlying a chart.
+* To toggle between two different visuals from chart view to data table and vice versa, click on the `Chart-Table` button.
 
 ### Percentage selector
-To toggle between the display between numbered data and percentage, click on the percentage value selector button. Percentages allow for a quick and accurate understanding of how much data sums have changed across a dimensional category.
+Percentages allow for a quick and accurate understanding of how much data sums have changed across a dimensional category.
+* To toggle between the display between numbered data and percentage, toggle the `percentage value selector`.
 
 ### Change chart type
+The change chart type graphical control lets you select such options as whether you want your information displayed as pie chart, column, or as a bar chart.
 1. Click the `Chart` button. A small pop over window will appear.
 2. Select the desired chart to be used in the current chart and click `Update Chart`.
-
-The change chart type graphical control lets you select such options as whether you want your information displayed as pie chart, column, or as a bar chart.
 
 Any changes made to chart type will reflect in the main page of the dashboard.
 
 ### Cohort vs Non-cohort
 You can compare multiple measures between cohort students with non-cohort students.
-Click on the Gear button and choose Cohort vs Non-cohort, a pop-up dialog appears.
-Select the Groups by clicking on the blank field and then click the Submit button.
+
+1. Click on the Gear button and choose Cohort vs Non-cohort, a pop-up dialog appears.
+2. Select the Groups by clicking on the blank field and then click the Submit button.
+
 The chart will be updated based on the parameter.
 
 ### Time Comparison
