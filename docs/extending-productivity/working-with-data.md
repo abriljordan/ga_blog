@@ -53,7 +53,7 @@ You can chart two or more data series on the same chart so that the trends from 
 If you want to revert the changes, click the `Gear` button and then choose `Reset`.
 
 ### Tabular view of the chart
-From the existing chart in `Detail view`, drill down into details with just a double click on a slice or column. You will be taken to another page with new user interface. With drill-down you can easily see the data that made the chart in a tabular format. It provides an interactive way to explore data points and view row-level data in the grid.
+From the existing chart in `Detail view`, drill down into details with just a double click on a slice or column. You will be taken to another page with new user interface. With drill-down you can easily see the data that made the chart in a tabular format. The following are the controls that can be used in exploring data points and view row-level data in the grid.
 
 * _Filter Columns_. Click on the disclosure button or drop down arrow for the column you want to filter. A pop-up box appears. Check the boxes next to the data you want to filter. The data will be filtered, hiding any content that does not match the criteria. When data is filtered, only rows that meet the criteria will display and other rows will be hidden. You can analyze your data better using filter columns.
 
@@ -64,7 +64,6 @@ From the existing chart in `Detail view`, drill down into details with just a do
 * _Schedule as Report_. You can set up a report to run itself daily, weekly or monthly and send the results automatically to the people who need to see them, so that you don’t have to remember to log in and do it yourself.
 
 ### Filter data
-
 To apply global filters to indicators via dashboard main page or in the individual indicator.
 
 1. Navigate the dashboard and click the `Funnel` button located above the sections. A new set of controls appears just below the funnel button.
