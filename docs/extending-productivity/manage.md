@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manage
+title: Users and School Settings
 parent: Extending Productivity Further
 has_toc: true
 nav_order: 2
@@ -18,7 +18,7 @@ nav_order: 2
 ---
 
 
-## Manage Users and School Settings
+## Users and School Settings
 ### Users
 
 #### Add users individually
