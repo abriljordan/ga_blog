@@ -18,7 +18,7 @@ nav_order: 2
 ---
 
 
-## Managed Users and School Settings
+## Manage Users and School Settings
 ### Users
 
 #### Add users individually

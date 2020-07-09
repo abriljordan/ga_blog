@@ -3,7 +3,7 @@ layout: default
 title: Create, edit, delete
 parent: Working with Dashboard
 has_toc: true
-nav_order: 1
+nav_order: 2
 ---
 
 # Create, edit, delete
@@ -44,8 +44,8 @@ To delete a dashboard you are currently viewing, follow these steps:
 ### Add existing indicator
 Add existing indicator to a section.
 1.	Navigate the dashboard and click the ` plus (+) ` of the section.
-2.	From the drop-down menu, click `Existing`. A popover window will appear to help add indicator in the dashboard.
-3.	Click the `Disclosure` button, and then click on the choose indicator.
+2.	From the drop-down menu, click `Existing`. A pop-over window will appear to help add indicator in the dashboard.
+3.	From the window, click the `Disclosure` button, then choose the indicator.
 4.	Once you’re done, click `Create`.
 
 ### To add a dataset (indicator) to a dashboard
