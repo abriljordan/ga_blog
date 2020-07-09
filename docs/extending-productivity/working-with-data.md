@@ -53,10 +53,15 @@ You can chart two or more data series on the same chart so that the trends from 
 If you want to revert the changes, click the `Gear` button and then choose `Reset`.
 
 ### Tabular view of the chart
-From the existing chart, you can drill down to the next level, by double clicking the chart.
+From the existing chart in `Detail view`, drill down into details with just a double click on a slice or column. You will be taken to another page with new user interface. With drill-down you can easily see the data that made the chart in a tabular format. It provides an interactive way to explore data points and view row-level data in the grid.
 
-Values in table form that made the chart possible. Spreadsheet style presentation of data. It provides an interactive way to explore data points and view row-level data in the grid.
+* _Filter Columns_. Click on the disclosure button or drop down arrow for the column you want to filter. A pop-up box appears. Check the boxes next to the data you want to filter. The data will be filtered, hiding any content that does not match the criteria. When data is filtered, only rows that meet the criteria will display and other rows will be hidden. You can analyze your data better using filter columns.
 
+* _Sorting arrows_. First, choose the column that you would like sorted. Click on the arrows over the column you wish to sort. The two small arrows is an indication that this column is available for sorting. When the arrow is clicked, the rows in the table are ordered ascending by the specific column values. If the same label is clicked again, the order is reversed.
+
+* _Send/export_. The arrow allows you to  export or send the current data in the table in CSV or Excel format.
+
+* _Schedule as Report_. You can set up a report to run itself daily, weekly or monthly and send the results automatically to the people who need to see them, so that you don’t have to remember to log in and do it yourself.
 
 ### Filter data
 
