@@ -3,7 +3,7 @@ layout: default
 title: Create, edit, delete
 parent: Working with Dashboard
 has_toc: true
-nav_order: 2
+nav_order: 3
 ---
 
 # Create, edit, delete

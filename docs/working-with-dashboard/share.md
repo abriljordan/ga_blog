@@ -3,7 +3,7 @@ layout: default
 title: Share
 parent: Working with Dashboard
 has_toc: true
-nav_order: 3
+nav_order: 5
 ---
 
 # Share
