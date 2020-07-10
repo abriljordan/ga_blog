@@ -115,11 +115,6 @@ You can resize charts in a dashboard all at once in just one click.
 3. Give the section a new name.
 4. Once you’re done, click `Update`.
 
-### Rearrange section
-1. Navigate the dashboard and click the `Gear` button, a drop-down menu appears.
-2. Select `Manage Sections`, a popover window appears.
-3. Click and drag the section to reorder.
-4. Once you’re done, click `Update`.
 
 ### Delete a section
 1. Navigate the section and click the `Trash bin` button. A small dialog appears.
