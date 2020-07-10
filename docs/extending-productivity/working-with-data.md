@@ -20,26 +20,23 @@ nav_order: 1
 ### Drill-down for a chart
 Navigate the dashboard and select an indicator. Click on the indicator's name and you will taken to another page with a new set of user interface. The following are the controls in the user interface:
 
-* _Toggle between a chart and table in dashboard_ Visual table shows you the data underlying a chart. To toggle between two different visuals from chart view to data table and vice versa, click the `Chart-Table` button.
+* _Toggle between a chart and table in dashboard_ Visual table shows you the data underlying a chart. To toggle between two different visuals from chart view to data table and vice versa, click the Chart-Table.
 
-* _Percentage selector_ Percentages allow for a quick and accurate understanding of how much data sums have changed across a dimensional category. To toggle between the display between numbered data and percentage, toggle the `percentage value selector`.
+* _Percentage selector_ Percentages allow for a quick and accurate understanding of how much data sums have changed across a dimensional category. To toggle between the display between numbered data and percentage, toggle the Percentage Value Selector.
 
-* _Change chart type_ The change chart type graphical control lets you select such options as whether you want your information displayed as pie chart, column, or as a bar chart. Click the `Chart` button and select the desired chart to be used in the current chart, then click `Update Chart`. Any changes made to chart type will reflect in the main page of the dashboard.
+* _Change chart type_ The change chart type graphical control lets you select such options as whether you want your information displayed as pie chart, column, or as a bar chart. Click the Chart button and select the desired chart to be used in the current chart, then click Update Chart button. Any changes made to chart type will reflect in the main page of the dashboard.
 
-* _Cohort vs Non-cohort_ You can compare multiple measures between cohort students with non-cohort students. Click the Gear button and choose Cohort vs Non-cohort, then click `Groups` field and select available groups in the dashboard. Once you're done, click Submit.
+* _Cohort vs Non-cohort_ You can compare multiple measures between cohort students with non-cohort students. Click the Gear button and choose Cohort vs Non-cohort, then click Groups field and select available groups in the dashboard. Once you're done, click Submit.
 
 The chart will be updated based on the parameter.
 
-### Time Comparison
-You can chart two or more data series on the same chart so that the trends from those series can be visually compared. You can create a chart that presents a side-by-side time comparison of three time periods.
-1. Click on the `Gear` button and choose `Time Comparison`. A pop-up dialog appears.
-2. Fill in the required fields.
-3. Click the `Submit` button.
+* _Time Comparison_ You can chart two or more data series on the same chart so that the trends from those series can be visually compared. You can create a chart that presents a side-by-side time comparison of three time periods.
+1. Click the Gear button and choose Time Comparison, then fill in the required information. Once you're done, click the Submit button.
 
-If you want to revert the changes, click the `Gear` button and then choose `Reset`.
+If you want to revert the changes, click the Gear button and then choose Reset.
 
 ### Tabular view of the chart
-From the existing chart in `Detail view`, drill down into details with just a double click on a slice or column. You will be taken to another page with new user interface. With drill-down you can easily see the data that made the chart in a tabular format. The following are the controls that can be used in exploring data points and view row-level data in the grid.
+From the existing chart in Detail view, drill down into details with just a double click on a slice or column. You will be taken to another page with new user interface. With drill-down you can easily see the data that made the chart in a tabular format. The following are the controls that can be used in exploring data points and view row-level data in the grid.
 
 * _Filter Columns_. Click on the disclosure button or drop down arrow for the column you want to filter. A pop-up box appears. Check the boxes next to the data you want to filter. The data will be filtered, hiding any content that does not match the criteria. When data is filtered, only rows that meet the criteria will display and other rows will be hidden. You can analyze your data better using filter columns.
 
@@ -52,10 +49,9 @@ From the existing chart in `Detail view`, drill down into details with just a do
 ### Filter data
 To apply global filters to indicators via dashboard main page or in the individual indicator.
 
-1. Navigate the dashboard and click the `Funnel` button located above the sections. A new set of controls appears just below the funnel button.
-2. Click on the `plus (+) sign`, a dialog window appears.
-3. Select the appropriate filter by checking on the boxes, then click the `Add` button.
-4. Click the `GO!` button to apply filter.
+1. Navigate the dashboard and click the Funnel button located above the sections. A new set of controls appears just below the funnel button.
+2. Click on the plus (+) sign, then select the appropriate filter by checking on the boxes.
+3. Click the Add button, then click the GO! button to apply filter.
 
 If you wish the filters to be saved, click the `Save Filters to Page` button, otherwise, click the `Clear Filters` button.
 
