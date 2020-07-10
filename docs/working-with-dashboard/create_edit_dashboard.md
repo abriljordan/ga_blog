@@ -65,7 +65,7 @@ The Data+Design web application allows you to create, edit and delete dashboard,
 
 <details markdown="block">
   <summary>
-  To add a dataset (indicator) to a dashboard
+  Add a dataset (indicator) to a dashboard
   </summary>
   You can upload external data in a .csv or excel format through the user interface.
   1.	Navigate the section where you want to upload the indicator and click `plus (+) `. A drop-down menu appears.
@@ -88,36 +88,57 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   4.	Click `Update` to apply changes.
 </details>
 
-## Cohort
-1.	Create cohort file for uploading (csv or excel).
-2.	Navigate to the dashboard and click `Upload Cohort` located just above the sections. A new user interface will appear to help you upload cohort.
-3.	Under `Details` section, upload the .csv or excel file.
-4.	Once you’re done, click `Next`.
-5.	Under `Student Details and Dataset` section, fill in the required fields.
-6.	Once you’re done, click `Submit`.
+<details markdown="block">
+  <summary>
+  Upload Cohort
+  </summary>
+  1.	Create cohort file for uploading (csv or excel).
+  2.	Navigate to the dashboard and click `Upload Cohort` located just above the sections. A new user interface will appear to help you upload cohort.
+  3.	Under `Details` section, upload the .csv or excel file.
+  4.	Once you’re done, click `Next`.
+  5.	Under `Student Details and Dataset` section, fill in the required fields.
+  6.	Once you’re done, click `Submit`.
 
-If it was successful, a message should display informing the file was uploaded.
+  If it was successful, a message should display informing the file was uploaded.
+</details>
 
 ## Chart
-### Change chart color
-Maybe your indicator needs a little something else to make it more impactful. You can change the color of your chart.
-1. Choose the chart that you want to change. Click the `Gear` button and choose `Change Color`.
-2. Click on the color that you want to change and pick the color scheme you want.
-3. Once you’re done, click the `Update` button.
 
-### Resize all charts
-You can resize charts in a dashboard all at once in just one click.
-1. Navigate the dashboard and click the `Gear` button located just above the sections. A drop-down menu appears.
-2. From the menu click the `squares` to resize the charts in the dashboard.
+<details markdown="block">
+  <summary>
+  Change chart color
+  </summary>
+  Maybe your indicator needs a little something else to make it more impactful. You can change the color of your chart.
+  1. Choose the chart that you want to change. Click the `Gear` button and choose `Change Color`.
+  2. Click on the color that you want to change and pick the color scheme you want.
+  3. Once you’re done, click the `Update` button.
+</details>
 
-### Resize a single chart
-1. Navigate the Card and click the `Gear` button, a drop-down menu appears.
-2. From the menu click the `squares` to resize the charts in the dashboard.
+<details markdown="block">
+  <summary>
+  Resize all charts
+  </summary>
+  You can resize charts in a dashboard all at once in just one click.
+  1. Navigate the dashboard and click the `Gear` button located just above the sections. A drop-down menu appears.
+  2. From the menu click the `squares` to resize the charts in the dashboard.
+</details>
+
+<details markdown="block">
+  <summary>
+  Resize a single chart
+  </summary>
+  1. Navigate the Card and click the `Gear` button, a drop-down menu appears.
+  2. From the menu click the `squares` to resize the charts in the dashboard.
+</details>
 
 ## Card
-### Delete Card
-1. Navigate the Card and click the `Gear` button, a drop-down menu appears.
-2. From the menu, click `Delete Dashboard`.
+<details markdown="block">
+  <summary>
+  Delete Card
+  </summary>
+  1. Navigate the Card and click the `Gear` button, a drop-down menu appears.
+  2. From the menu, click `Delete Dashboard`.
+</details>
 
 ### Remove Card
 1. Click on the indicator's `Gear` button and choose Remove.
