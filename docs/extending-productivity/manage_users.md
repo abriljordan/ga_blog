@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Users and School Settings
+title: Add and edit users
 parent: Extending Productivity Further
 has_toc: true
 nav_order: 2
 ---
 
-# Manage
+# Add and edit users
 {: .no_toc }
 
 ## Table of contents
@@ -21,7 +21,7 @@ nav_order: 2
 ## Users and School Settings
 ### Users
 
-#### Add users individually
+#### Add a user
 In the left pane of the Dashboard window, click Admin Console. If you do not see Admin Console, you may not have the right admin permissions; please contact your tech admin.
 1. Click Permissions > User.
 2. Click the `Create User` button. This will bring up the `Create user window`.
@@ -31,7 +31,7 @@ In the left pane of the Dashboard window, click Admin Console. If you do not see
     * Standard: Standard users are set up by a tech administrator.
 5. Once you're done, click `Create`.
 
-#### Adding Users in Bulk
+#### Add multiple users
 In the left pane of the Dashboard window, click Admin Console. If you do not see Admin Console, you may not have the right admin permissions; please contact your tech admin.
 1. Click the `Bulk Create User` button. A popover window will appear.
 2. Click `Select File`, and upload a file from your computer or from whatever your CSV is located.
@@ -44,7 +44,7 @@ In the left pane of the Dashboard window, click Admin Console. If you do not see
   * In the 'CSV Header Row' column, find the field which contains your users' phone — select 'Phone' from the drop-down list in the 'Mapping' column.
 4. Once you're done, click the `Create` button.
 
-#### Editing Users in Bulk
+#### Edit multiple users
 In the left pane of the Dashboard window, click Admin Console. If you do not see Admin Console, you may not have the right admin permissions; please contact your tech admin.
 1. Click Permissions > User.
 2. To select user(s), check the box to the left of the username.
@@ -52,20 +52,20 @@ In the left pane of the Dashboard window, click Admin Console. If you do not see
 4. From the window, update the users' information.
 5. Once you're done, click `Update All` button.
 
-#### Deleting Users in Bulk
+#### Delete multiple users
 In the left pane of the Dashboard window, click Admin Console. If you do not see Admin Console, you may not have the right admin permissions; please contact your tech admin.
 1. Click Permissions > User.
 2. Select user(s) to edit/update from the list of users.
 3. After selecting the user(s), click the `Bulk Edit`. This will bring up the `Delete Users` window.
 4. Click `Delete All` button.
 
-#### Deleting a user
+#### Delete a single user
 In the left pane of the Dashboard window, click Admin Console. If you do not see Admin Console, you may not have the right admin permissions; please contact your tech admin.
 1. Click Permissions > User.
 2. Find the account that you want to delete. You can use `Search` and select the user you want to delete.
 3. Hove over the user you want to delete and click the `Trash bin` button located at the right most of the window, then `Confirm`.
 
-#### Viewing user activity
+#### View user activity
 The Dashboard keeps track of a user’s activities. It logs the dashboard visited and logged in time.
 In the left pane of the Dashboard window, click `Admin Console`. If you do not see Admin Console, you may not have the right admin permissions; please contact your tech admin.
 1. Click Permissions > User.
@@ -82,7 +82,7 @@ In the left pane of the Dashboard window, click `Admin Console`. If you do not s
 ### School
 If you're a tech administrator, you can create codes and event for the school.
 
-#### Creating Discipline Codes
+#### Create discipline codes
 In the left pane of the Dashboard window, click `Admin Console`. If you do not see Admin Console, you may not have the right admin permissions; please contact your tech admin.
 
 1. Click School setup > Discipline Codes
@@ -90,7 +90,7 @@ In the left pane of the Dashboard window, click `Admin Console`. If you do not s
 3. From the window, fill in the required fields. Address code and discipline score.
 4. Once you're done, click the `Create` button.
 
-#### Creating Attendance Code
+#### Create attendance code
 In the left pane of the Dashboard window, click `Admin Console`. If you do not see Admin Console, you may not have the right admin permissions; please contact your tech admin.
 
 1. Click School setup > Attendance Codes
@@ -98,7 +98,7 @@ In the left pane of the Dashboard window, click `Admin Console`. If you do not s
 3. From the window, fill in the required fields. Address code, attendance type, absent, tardy and truant.
 4. Once you're done, click the `Create` button.
 
-#### Creating a new event
+#### Create a new event
 In the left pane of the Dashboard window, click `Admin Console`. If you do not see Admin Console, you may not have the right admin permissions; please contact your tech admin.
 1. Click School setup > Calendar
 1. To create a new calendar event, click the `Create Event` button, a popover window appears.

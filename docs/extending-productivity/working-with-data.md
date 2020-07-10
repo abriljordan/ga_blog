@@ -17,11 +17,11 @@ nav_order: 1
 
 ---
 ## Drill-down to explore data hierarchies.
-Drill-down for a chart
+### Drill-down for a chart
 1. Navigate the dashboard and select an indicator.
 2. Click on the indicator's name. You will taken to another page with a new set of user interface.
 
-### Toggle between a chart and table in Dashboard
+### Toggle between a chart and table in dashboard
 Visual table shows you the data underlying a chart.
 * To toggle between two different visuals from chart view to data table and vice versa, click on the `Chart-Table` button.
 
@@ -30,11 +30,15 @@ Percentages allow for a quick and accurate understanding of how much data sums h
 * To toggle between the display between numbered data and percentage, toggle the `percentage value selector`.
 
 ### Change chart type
+<details>
+<summary>Change chart type</summary>
+
 The change chart type graphical control lets you select such options as whether you want your information displayed as pie chart, column, or as a bar chart.
 1. Click the `Chart` button. A small pop over window will appear.
 2. Select the desired chart to be used in the current chart and click `Update Chart`.
 
 Any changes made to chart type will reflect in the main page of the dashboard.
+</details>
 
 ### Cohort vs Non-cohort
 You can compare multiple measures between cohort students with non-cohort students.
