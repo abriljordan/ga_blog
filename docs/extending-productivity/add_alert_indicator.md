@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Setup Alert
+title: Add an alert to an Indicator
 parent: Extending Productivity Further
 has_toc: true
 nav_order: 2
 ---
 
-# Setup Alert
+# Add an alert to an Indicator
 
 ---
 
