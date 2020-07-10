@@ -82,12 +82,10 @@ Maybe your indicator needs a little something else to make it more impactful. Yo
 2. Click on the color that you want to change and pick the color scheme you want.
 3. Once you’re done, click the `Update` button.
 
-## Resize chart
 ### Resize all charts
 You can resize charts in a dashboard all at once in just one click.
 1. Navigate the dashboard and click the `Gear` button located just above the sections. A drop-down menu appears.
 2. From the menu click the `squares` to resize the charts in the dashboard.
-
 
 ### Resize a single chart
 1. Navigate the Card and click the `Gear` button, a drop-down menu appears.
