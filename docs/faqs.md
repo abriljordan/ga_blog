@@ -6,6 +6,12 @@ nav_order: 5
 
 # Dashboard FAQ
 
+Welcome to the Data+Design Dashboard, Frequently Asked Questions (FAQs)!
+
+This section provides answers to a few common questions we receive at the Help Desk.
+
+If you have more complex questions, please contact the Help Desk.
+
 <details>
 <summary>Can I download the reports as a PDF? </summary>
 <p>
