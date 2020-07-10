@@ -15,7 +15,7 @@ If you have more complex questions, please contact the Help Desk.
 <details>
 <summary>Can I download the reports as a PDF? </summary>
 <p>
-Yes. Go to...
+Yes. Go to the Reports in the left panel of the dashboard.
 </p>
 </details>
 
@@ -31,6 +31,6 @@ Apparent delays downloading from Dashboard's server can be caused by many things
 <p>
 On your Dashboard, choose Admin Console > Permissions, then click Users.
 Find the user, then click the username.
-Update the user's role, then click `Update`.
+Update the user's role, then click Update.
 </p>
 </details>
