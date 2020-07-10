@@ -53,12 +53,10 @@ To apply global filters to indicators via dashboard main page or in the individu
 2. Click on the plus (+) sign, then select the appropriate filter by checking on the boxes.
 3. Click the Add button, then click the GO! button to apply filter.
 
-If you wish the filters to be saved, click the `Save Filters to Page` button, otherwise, click the `Clear Filters` button.
+If you wish the filters to be saved, click the Save Filters to Page button, otherwise, click the Clear Filters button.
 
 Apply local filters to an indicator
 
-1. Navigate the dashboard and once you've found the indicator, click the `Gear` button, a drop-down menu appears.
-2. From the menu, choose `Filter`, a dialog window appears.
-3. Click the `plus (+) sign`, and then check the boxes next to the filter.
-4. After checking the filters, click the `Add` button.
-4. Once you're done, click the `GO!` button to apply filters.
+1. Navigate the dashboard and once you've found the indicator, click the Gear button, then choose Filter.
+2. Click the plus (+) sign, then check the boxes next to the filter.
+3. After adding the filters, click the Add button, then click the GO! button to apply filters.
