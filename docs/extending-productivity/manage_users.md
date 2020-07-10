@@ -24,12 +24,12 @@ nav_order: 2
 #### Add a user
 In the left pane of the Dashboard window, click Admin Console. If you do not see Admin Console, you may not have the right admin permissions; please contact your tech admin.
 1. Click Permissions > User.
-2. Click the `Create User` button. This will bring up the `Create user window`.
-3. Fill in required fields indicated with red asterisks. Address name, email and role.
-4. In the `Role` field, click on the `Disclosure drop-down arrow` and you will see a list of roles. Choose a type of role.
-    * Tech Admin: A tech administrator can add and mange other users and change settings.
-    * Standard: Standard users are set up by a tech administrator.
-5. Once you're done, click `Create`.
+2. Click the Create User button.
+3. Enter the required information.
+      * The user's name, email and role.
+      * The email address must be valid.
+      * Select the user roles. User roles determine which sections a user has access to and which tasks they can perform.
+5. Click Create.
 
 #### Add multiple users
 In the left pane of the Dashboard window, click Admin Console. If you do not see Admin Console, you may not have the right admin permissions; please contact your tech admin.

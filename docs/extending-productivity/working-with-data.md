@@ -35,7 +35,7 @@ The chart will be updated based on the parameter.
 
 If you want to revert the changes, click the Gear button and then choose Reset.
 
-### Tabular view of the chart
+### Tabular view of a chart
 From the existing chart in Detail view, drill down into details with just a double click on a slice or column. You will be taken to another page with new user interface. With drill-down you can easily see the data that made the chart in a tabular format. The following are the controls that can be used in exploring data points and view row-level data in the grid.
 
 * _Filter Columns_. Click on the disclosure button or drop down arrow for the column you want to filter. A pop-up box appears. Check the boxes next to the data you want to filter. The data will be filtered, hiding any content that does not match the criteria. When data is filtered, only rows that meet the criteria will display and other rows will be hidden. You can analyze your data better using filter columns.
@@ -46,10 +46,10 @@ From the existing chart in Detail view, drill down into details with just a doub
 
 * _Schedule as Report_. You can set up a report to run itself daily, weekly or monthly and send the results automatically to the people who need to see them, so that you don’t have to remember to log in and do it yourself.
 
-### Filter data
+### Apply filters to the dashboard
 To apply global filters to indicators via dashboard main page or in the individual indicator.
 
-1. Navigate the dashboard and click the Funnel button located above the sections. A new set of controls appears just below the funnel button.
+1. Navigate the dashboard and click the Global Filters button located above the sections. A new set of controls appears just below the Global Filters button.
 2. Click on the plus (+) sign, then select the appropriate filter by checking on the boxes.
 3. Click the Add button, then click the GO! button to apply filter.
 
@@ -59,4 +59,4 @@ Apply local filters to an indicator
 
 1. Navigate the dashboard and once you've found the indicator, click the Gear button, then choose Filter.
 2. Click the plus (+) sign, then check the boxes next to the filter.
-3. After adding the filters, click the Add button, then click the GO! button to apply filters.
+3. After adding filters, click the Add button, then click the GO! button to apply filters.
