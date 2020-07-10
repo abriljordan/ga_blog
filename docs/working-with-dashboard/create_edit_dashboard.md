@@ -140,24 +140,39 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   2. From the menu, click `Delete Dashboard`.
 </details>
 
-### Remove Card
-1. Click on the indicator's `Gear` button and choose Remove.
-2. Click `Confirm` to remove card from the section.
+<details markdown="block">
+  <summary>
+  Remove Card
+  </summary>
+  1. Click on the indicator's `Gear` button and choose Remove.
+  2. Click `Confirm` to remove card from the section.
+</details>
 
 ## Section
-### Create a section
-1. Navigate the dashboard and click the `Gear` button located just above the sections. A drop-down menu appears.
-2. From the menu, click `Manage Sections`, a popover dialog appears.
-3. From the dialog, click `Add`, a popover dialog appears.
-4. Enter the new section name.
-5. Once you’re done, click `Create`.
+<details markdown="block">
+  <summary>
+  Create a section
+  </summary>
+  1. Navigate the dashboard and click the `Gear` button located just above the sections. A drop-down menu appears.
+  2. From the menu, click `Manage Sections`, a popover dialog appears.
+  3. From the dialog, click `Add`, a popover dialog appears.
+  4. Enter the new section name.
+  5. Once you’re done, click `Create`.
+</details>
 
-### Edit section name
-1. Navigate the section and click the `Pencil` button. A small dialog appears.
-3. Give the section a new name.
-4. Once you’re done, click `Update`.
+<details markdown="block">
+  <summary>
+  Edit section name
+  </summary>
+  1. Navigate the section and click the `Pencil` button. A small dialog appears.
+  2. Give the section a new name.
+  3. Once you’re done, click `Update`.
+</details>
 
-
-### Delete a section
-1. Navigate the section and click the `Trash bin` button. A small dialog appears.
-2. Click `Confirm` to delete section.
+<details markdown="block">
+  <summary>
+  Delete a section
+  </summary>
+  1. Navigate the section and click the `Trash bin` button. A small dialog appears.
+  2. Click `Confirm` to delete section.
+</details>
