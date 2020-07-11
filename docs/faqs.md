@@ -7,15 +7,12 @@ nav_order: 5
 # Dashboard FAQ
 
 Welcome to the Data+Design Dashboard, Frequently Asked Questions (FAQs)!
-
 This section provides answers to a few common questions we receive at the Help Desk.
-
-If you have more complex questions, please contact the Help Desk.
 
 <details>
   <summary>Can I download the reports as a PDF? </summary>
   <p>
-  Yes. Go to the Reports in the left panel of the dashboard.
+  Yes. You can export dashboards to PDF
   </p>
 </details>
 
@@ -38,6 +35,27 @@ If you have more complex questions, please contact the Help Desk.
 <details>
   <summary>Can I add alerts to an Indicator?</summary>
     <p>
+      Yes. Just click the Gear of the indicator, then choose Alert Me. Follow the instructions on the screen to setup and alert.
+    </p>
+</details>
 
+<details>
+  <summary>How many dashboards can I have?</summary>
+    <p>
+    You can have any number of dashboards. We recommend to keep only the dashboards that are relevant to your users.    
+    </p>
+</details>
+
+<details>
+  <summary>What user role should I have to use dashboards?</summary>
+    <p>
+    All users can view dashboards and set up alerts on indicator changes. Only tech administrators can Set up a Dashboard.
+    </p>
+</details>
+
+<details>
+  <summary>How I can provide feedback? </summary>
+    <p>
+    The Data+Design team would love to hear from you. If you have feedback or inquiries, you can provide them within the Data+Design Dashboard page. Click the question mark icon on the lower portion of the dashboard and follow the instructions.
     </p>
 </details>
