@@ -41,6 +41,5 @@ If you have more complex questions, please contact the Help Desk.
 
     </p>
 </details>
--![Logo Jekyll]({{site.baseurl}}/assets/images/users.png )
 
 Link to another page:
