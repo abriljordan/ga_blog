@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Organize
+title: Organize Dashboard
 parent: Working with Dashboard
 has_toc: true
-nav_order: 4
+nav_order: 3
 ---
 
-# Organize
+# Organize Dashboard
 {: .no_toc }
 
 ## Table of contents
