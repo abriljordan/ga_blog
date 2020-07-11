@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Get Started in Data+Design Dashboard
 nav_order: 1
 ---
 

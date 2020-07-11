@@ -41,5 +41,3 @@ If you have more complex questions, please contact the Help Desk.
 
     </p>
 </details>
-
-Link to another page:
