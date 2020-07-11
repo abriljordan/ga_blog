@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Extending Productivity Further
+title: Extending Productivity
 has_children: true
-#has_toc: true
+has_toc: true
 true permalink: /docs/extending-productivity
-nav_order: 3
+nav_order: 1
 ---
 
-# Extending Productivity Further
+## Extending Productivity

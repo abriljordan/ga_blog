@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Working with Data
-parent: Extending Productivity Further
+parent: Extending Productivity
 has_toc: true
-nav_order: 1
+nav_order: 2
 ---
 
 # Working with Data

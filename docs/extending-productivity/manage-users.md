@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Add and edit users
-parent: Extending Productivity Further
+parent: Extending Productivity
 has_toc: true
 nav_order: 2
 ---

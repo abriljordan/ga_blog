@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Add and edit school codes and events
-parent: Extending Productivity Further
+parent: Extending Productivity
 has_toc: true
 nav_order: 2
 ---
