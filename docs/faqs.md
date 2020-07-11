@@ -42,3 +42,6 @@ If you have more complex questions, please contact the Help Desk.
     </p>
 </details>
 -![Logo Jekyll]({{site.baseurl}}/assets/images/tux.png )
+
+Link to another page:
+-![Alert Me](add_alert_indicator.md)
