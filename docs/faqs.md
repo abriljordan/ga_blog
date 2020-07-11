@@ -12,7 +12,7 @@ This section provides answers to a few common questions we receive at the Help D
 <details>
   <summary>Can I download the reports as a PDF? </summary>
   <p>
-  Yes. You can export dashboards to PDF
+  Yes. You can download reports to PDF.
   </p>
 </details>
 
