@@ -43,6 +43,10 @@ In the left pane of the Dashboard window, click Admin Console. If you do not see
 **Required role:** Tech Admin
 
 In the left pane of the Dashboard window, click Admin Console.
+
+-![Calendar]({{site.baseurl}}/assets/images/calendar.png "Calendar Interface")
+
+
 1. Click School setup > Calendar
 2. To create a new calendar event, click the Create Event button.
 3. Name your new event, give it a description, choose a start and end date, and the type of the event. The Event Type is a dropdown list where you just select the appropriate type of event.

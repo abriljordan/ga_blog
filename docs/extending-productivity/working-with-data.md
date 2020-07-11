@@ -20,6 +20,10 @@ nav_order: 2
 ### Drill-down for a chart
 Navigate the dashboard and select an indicator. Click on the indicator's name and you will taken to another page with a new set of user interface. The following are the controls in the user interface:
 
+-![Detail View Interface]({{site.baseurl}}/assets/images/detail-view.png "Detail View Interface")
+
+
+
 * _Toggle between a chart and table in dashboard_ Visual table shows you the data underlying a chart. To toggle between two different visuals from chart view to data table and vice versa, click the Chart-Table.
 
 * _Percentage selector_ Percentages allow for a quick and accurate understanding of how much data sums have changed across a dimensional category. To toggle between the display between numbered data and percentage, toggle the Percentage Value Selector.
@@ -37,6 +41,10 @@ If you want to revert the changes, click the Gear button and then choose Reset.
 
 ### Tabular view of a chart
 From the existing chart in Detail view, drill down into details with just a double click on a slice or column. You will be taken to another page with new user interface. With drill-down you can easily see the data that made the chart in a tabular format. The following are the controls that can be used in exploring data points and view row-level data in the grid.
+
+-![Drill Down]({{site.baseurl}}/assets/images/drill-down.png "Drill Down Interface")
+
+
 
 * _Filter Columns_. Click on the disclosure button or drop down arrow for the column you want to filter. A pop-up box appears. Check the boxes next to the data you want to filter. The data will be filtered, hiding any content that does not match the criteria. When data is filtered, only rows that meet the criteria will display and other rows will be hidden. You can analyze your data better using filter columns.
 
