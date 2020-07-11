@@ -20,6 +20,8 @@ nav_order: 2
 
 ## Users
 
+-![Logo Jekyll]({{site.baseurl}}/assets/images/users.png )
+
 ### Add a user
 **Required role:** Tech Admin
 

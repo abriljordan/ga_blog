@@ -3,6 +3,7 @@ layout: default
 title: Add an alert to an Indicator
 parent: Extending Productivity Further
 has_toc: true
+true permalink: /docs/extending-productivity
 nav_order: 2
 ---
 
