@@ -3,7 +3,7 @@ layout: default
 title: Add an alert to an Indicator
 parent: Extending Productivity
 has_toc: true
-nav_order: 3
+nav_order: 4
 ---
 
 # Add an alert to an Indicator

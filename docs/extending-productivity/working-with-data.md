@@ -3,7 +3,7 @@ layout: default
 title: Working with Data
 parent: Extending Productivity
 has_toc: true
-nav_order: 2
+nav_order: 3
 ---
 
 # Working with Data
