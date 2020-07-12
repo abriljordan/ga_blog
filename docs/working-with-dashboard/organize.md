@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Organize Dashboard
+title: Organize
 parent: Working with Dashboard
 has_toc: true
 nav_order: 3
