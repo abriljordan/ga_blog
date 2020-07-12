@@ -59,7 +59,3 @@ This section provides answers to a few common questions we receive at the Help D
     The Data+Design team would love to hear from you. If you have feedback or inquiries, you can provide them within the Data+Design Dashboard page. Click the question mark icon on the lower portion of the dashboard and follow the instructions.
     </p>
 </details>
-
-[Link to Share](/working-with-dashboard/share.md)
-
-[Link to Alert Me](/extending-productivity/add-alert-indicator.md)
