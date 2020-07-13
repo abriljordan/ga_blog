@@ -33,11 +33,12 @@ This section provides answers to a few common questions we receive at the Help D
 </details>
 
 <details>
-  <summary markdown="span">Can I add alerts to an Indicator?</summary>
-
+  <summary>Can I add alerts to an Indicator?</summary>
+      <p>
       Yes. Just click the Gear of the indicator, then choose Alert Me. Follow the instructions on the screen to setup and alert.
-      
-      [GitLab UI docs](https://gitlab-org.gitlab.io/gitlab-ui/?path=/story/base-collapse--default)
+
+      ![GitLab UI docs](https://gitlab-org.gitlab.io/gitlab-ui/?path=/story/base-collapse--default)
+      </p>
 </details>
 
 <details>
