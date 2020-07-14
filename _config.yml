@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 #theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs@v0.3.0
-color_scheme: light
+color_scheme: data-design
 search_enabled: true
 heading_anchors: true
 permalink: pretty
