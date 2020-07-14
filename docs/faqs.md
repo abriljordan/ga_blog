@@ -16,6 +16,9 @@ This section provides answers to a few common questions we receive at the Help D
 - [How many dashboards can I have?](#how-many-dashboards-can-i-have)
 - [What user role should I have to use dashboards?](#what-user-role-should-i-have-to-use-dashboards)
 - [How I can provide feedback?](#how-can-i-provide-feedback)
+
+
+
 ## Can I download the reports as a PDF?
 Yes. You can download reports as a PDF. Go to [Share and Download](/working-with-dashboard/share-download.md)
 
