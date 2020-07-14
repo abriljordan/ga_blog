@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Share
+title: Share and download
 parent: Working with Dashboard
 has_toc: true
 nav_order: 4
 ---
 
-# Share
+# Share and download
 
 ---
 
@@ -26,3 +26,8 @@ _Export/Send dialog box_
 2. Click a method for exporting: CSV, Microsoft PowerPoint, PDF, Microsoft Excel, Print, or share as email.
 3. If you choose share dashboard as email, enter the required information: email, subject, message.
 4. Once you are done, click Send Email.
+
+## Download Report as PDF
+1. Navigate the left pane of the dashboard, then click Reports.
+2. Click the Share Arrow in the right side of the dashboard.
+3. Select Download as PDF.
