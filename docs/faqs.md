@@ -20,16 +20,16 @@ This section provides answers to a few common questions we receive at the Help D
 
 
 ## Can I download the reports as a PDF?
-Yes. You can download reports as a PDF. Go to [Share and Download](/working-with-dashboard/share-download.md)
+Yes. You can download reports as a PDF. Go to _**[Share and Download](/working-with-dashboard/share-download.md)**_
 
 ## Why am I getting an error that the server is taking too long when loading dashboard?
 Apparent delays downloading from Dashboard's server can be caused by many things, but are often the result of antivirus software or a firewall used by your organization.  After checking with your own IT administrators, if you are still unable to download the dashboard, please ask the Dashboard Desk for assistance.
 
 ## How do I convert a standard user to tech administrator?
-To convert a standard user to tech administrator, go to [Edit Users](/extending-productivity/manage-users.md) and follow the instructions.
+To convert a standard user to tech administrator, go to _**[Edit Users](/extending-productivity/manage-users.md)**_ and follow the instructions.
 
 ## Can I add alerts to an Indicator?
-Yes. Go to [Add Alert](/extending-productivity/add-alert-indicator.md) and follow the instructions.
+Yes. Go to _**[Add Alert](/extending-productivity/add-alert-indicator.md)**_ and follow the instructions.
 
 ## How many dashboards can I have?
 You can have any number of dashboards. We recommend to keep only the dashboards that are relevant to your users.
