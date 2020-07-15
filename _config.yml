@@ -32,7 +32,7 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 
-footer_content: "Copyright &copy; 2018-2020 Data+Design Solutions"
+#footer_content: "Copyright &copy; 2018-2020 Data+Design Solutions"
 
 nav_links:
 plugins:
