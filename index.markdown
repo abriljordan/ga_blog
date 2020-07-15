@@ -6,10 +6,9 @@ nav_order: 1
 
 ## Get Started in Data+Design Dashboard
 
-The dashboard is a web-based application that operates using the latest web browser technology. It can be used
-on any operating system provided that the operating system is equipped with a compatible web browser.
+The dashboard is a web-based application that runs using the latest web browser technology. It can be used on any operating system provided that the operating system is equipped with a compatible web browser. Before you can use the dashboard, you need to request for an account from the tech administrator. You will be provided with a username, temporary password, and instructions to access the dashboard.
 
-You need to request for an account before you can use the dashboard. Contact your administrator to create an account for you. You will be provided with a username, temporary password, and instructions to access the dashboard. The dashboard is a rich internet application that requires only a web browser and appropriate network connection to operate. You only need to ensure that you have a compatible browser available and the ability to connect to the dashboard. In order to log in to the dashboard, open a compatible web browser. Browse to the URL where the Data+Design is hosted. If you are unsure of the URL where the dashboard is hosted, please contact your administrator. Enter your username and password and click log in.
+In order to log in to the dashboard, open a compatible web browser. Browse to the URL where the Data+Design is hosted. If you are unsure of the URL where the dashboard is hosted, please contact your administrator. Enter your username and password and click log in.
 
 
 ## Dashboard basics
