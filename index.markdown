@@ -15,7 +15,7 @@ In order to log in to the dashboard, open a compatible web browser. Browse to th
 
 -![Dashboard Interface]({{site.baseurl}}/assets/images/main-dash.png )
 
--![Dashboard Interface]({{site.baseurl}}/assets/images/card.png )
+-![Dashboard Interface]({{site.baseurl}}/assets/images/indicator-gui.png )
 
 The dashboard provides a snapshot overview of your data. You can customize the dashboard to meet your specific needs and preferences by drilling down and slicing data with a simple mouse-driven interface. It has filtering capabilities to limit the data being displayed in the report based upon specified parameters. You can create customized groups of tiles that when selected display the specified tiles as a pre-configured grouping based upon your specific needs or preferences.
 
