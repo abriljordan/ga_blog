@@ -60,7 +60,9 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   Add existing indicator
   </summary>
   Add existing indicator to a section.
+
   -![Dashboard Interface]({{site.baseurl}}/assets/images/add-indicator.png )
+  
   1.	Navigate the dashboard, then click the  plus (+) of the section, choose Existing.
   2.	Click the Disclosure button, then choose the indicator.
   3.	Once you’re done, click Create.
