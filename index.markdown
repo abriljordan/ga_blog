@@ -13,7 +13,7 @@ In order to log in to the dashboard, open a compatible web browser. Browse to th
 
 ## Dashboard basics
 
--![Dashboard Interface]({{site.baseurl}}/assets/images/dashboard-gui.png )
+-![Dashboard Interface]({{site.baseurl}}/assets/images/main-dash.png )
 
 -![Dashboard Interface]({{site.baseurl}}/assets/images/card.png )
 
