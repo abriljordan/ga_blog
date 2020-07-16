@@ -26,6 +26,7 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   Create a dashboard
   </summary>
   1. To create a new empty dashboard from scratch, click the Gear button on the main page, then choose Create Dashboard.
+        -![Dashboard Interface]({{site.baseurl}}/assets/images/create-dash.png )
   2. Enter the new dashboard name. You can make it into a default dashboard by clicking the Default toggle switch.
   3. Once you’re done, click the Create button.
 </details>
@@ -36,6 +37,7 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   </summary>
   1.	To make changes on a dashboard, open the dashboard first using Dashboard Selector located in the main page.
   2.	Click the Gear from the dashboard, then choose Edit Dashboard.
+    -![Dashboard Interface]({{site.baseurl}}/assets/images/edit-dash.png )
   3.	Change the name of the dashboard in the name field and then click Create.
 </details>
 
@@ -44,9 +46,12 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   Delete a dashboard
   </summary>
   Warning
+
   Deleting a dashboard will also remove any sections, indicators and alerts you have configured on that dashboard.
   To delete a dashboard you are currently viewing, follow these steps:
   * Click the Gear from the dashboard, then click Delete Dashboard, and then click Confirm to proceed.
+
+-![Dashboard Interface]({{site.baseurl}}/assets/images/delete-dash.png )
 </details>
 
 ## Indicator
@@ -55,6 +60,7 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   Add existing indicator
   </summary>
   Add existing indicator to a section.
+  -![Dashboard Interface]({{site.baseurl}}/assets/images/add-indicator.png )
   1.	Navigate the dashboard, then click the  plus (+) of the section, choose Existing.
   2.	Click the Disclosure button, then choose the indicator.
   3.	Once you’re done, click Create.
