@@ -111,7 +111,13 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   </summary>
   1.	Create cohort file for uploading (csv or excel).
   2.	Navigate to the dashboard and click Upload Cohort located just above the sections. A new user interface will appear to help you upload cohort.
+
+  -![Dashboard Interface]({{site.baseurl}}/assets/images/upload-cohort.png )
+
   3.	Under Details section, upload the .csv or excel file.
+
+  -![Dashboard Interface]({{site.baseurl}}/assets/images/upload-cohort-section.png )
+
   4.	Once you’re done, click Next.
   5.	Under Student Details and Dataset section, fill in the required fields.
   6.	Once you’re done, click Submit.
