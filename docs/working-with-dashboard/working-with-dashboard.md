@@ -49,7 +49,7 @@ The Data+Design web application allows you to create, edit and delete dashboard,
 
   Deleting a dashboard will also remove any sections, indicators and alerts you have configured on that dashboard.
   To delete a dashboard you are currently viewing, follow these steps:
-  * Click the Gear from the dashboard, then click Delete Dashboard, and then click Confirm to proceed.
+    * Click the Gear from the dashboard, then click Delete Dashboard, and then click Confirm to proceed.
 
 -![Dashboard Interface]({{site.baseurl}}/assets/images/delete-dash.png )
 </details>
@@ -62,9 +62,12 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   Add existing indicator to a section.
 
   -![Dashboard Interface]({{site.baseurl}}/assets/images/add-indicator.png )
-  
+
   1.	Navigate the dashboard, then click the  plus (+) of the section, choose Existing.
   2.	Click the Disclosure button, then choose the indicator.
+
+  -![Dashboard Interface]({{site.baseurl}}/assets/images/add-existing-indicator.png )
+
   3.	Once you’re done, click Create.
 </details>
 
@@ -73,8 +76,15 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   Add a dataset (indicator) to a dashboard
   </summary>
   You can upload external data in a .csv or excel format through the user interface.
+
   1.	Navigate the section where you want to upload the indicator and click plus (+).
+
+  -![Dashboard Interface]({{site.baseurl}}/assets/images/upload-indicator.png )
+
   2.	Click Upload, a user interface will appear to help you upload the dataset.
+
+  -![Dashboard Interface]({{site.baseurl}}/assets/images/section-upload-indicator.png )
+
   3.	Under Details section, import the .csv or excel, then click Next.
   4.	Under Select Columns section, select the columns that you want to be included in the indicator, then click Next.
   5.	Preview the dataset under Preview section, then click Next.
