@@ -98,6 +98,9 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   Rename indicator
   </summary>
   1.	Navigate the dashboard and click the Gear of the indicator, choose Rename.
+
+  -![Dashboard Interface]({{site.baseurl}}/assets/images/rename-indicator.png )
+
   2.	In the Caption field, type the new name for the indicator. You may also want to put some information in the Info text field.
   3.	Click Update to apply changes.
 </details>
