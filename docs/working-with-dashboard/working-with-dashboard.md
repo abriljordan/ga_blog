@@ -133,6 +133,7 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   </summary>
   Maybe your indicator needs a little something else to make it more impactful. You can change the color of your chart.
   1. Choose the chart that you want to change. Click the Gear button, then choose Change Color.
+  -![Dashboard Interface]({{site.baseurl}}/assets/images/change-chart-color.png )
   2. Click on the color that you want to change and pick the color scheme you want.
   3. Once you’re done, click the Update button.
 </details>
@@ -143,6 +144,8 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   </summary>
   You can resize charts in a dashboard all at once in just one click.
   * Navigate the dashboard and click the Gear button located just above the sections, then choose the squares to resize the charts in the dashboard.
+  
+  -![Dashboard Interface]({{site.baseurl}}/assets/images/resize-all-chart.png )
 </details>
 
 <details markdown="block">
@@ -150,6 +153,7 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   Resize a single chart
   </summary>
   * Navigate the Card and click the Gear button, then choose the square to resize the chart.
+  -![Dashboard Interface]({{site.baseurl}}/assets/images/resize-chart.png )
 </details>
 
 ## Card
