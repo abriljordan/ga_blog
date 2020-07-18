@@ -35,3 +35,5 @@ _Export/Send dialog box_
 1. Navigate the left pane of the dashboard, then click Reports.
 2. Click the Share Arrow in the right side of the dashboard.
 3. Select Download as PDF.
+
+-![Export/Send dialog box]({{site.baseurl}}/assets/images/report-download-pdf.png "Export/Send dialog box")
