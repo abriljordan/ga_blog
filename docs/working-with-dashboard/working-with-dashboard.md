@@ -144,7 +144,7 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   </summary>
   You can resize charts in a dashboard all at once in just one click.
   * Navigate the dashboard and click the Gear button located just above the sections, then choose the squares to resize the charts in the dashboard.
-  
+
   -![Dashboard Interface]({{site.baseurl}}/assets/images/resize-all-chart.png )
 </details>
 
@@ -177,6 +177,7 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   Create a section
   </summary>
   1. Navigate the dashboard and click the Gear button located just above the sections.
+  -![Dashboard Interface]({{site.baseurl}}/assets/images/add-section.png )
   2. Click Manage Sections, then choose Add.
   4. Enter the new section name.
   5. Once you’re done, click Create.
@@ -187,6 +188,9 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   Edit section name
   </summary>
   1. Navigate the section and click the Pencil button.
+
+  -![Dashboard Interface]({{site.baseurl}}/assets/images/rename-section.png )
+
   2. Give the section a new name.
   3. Once you’re done, click Update.
 </details>
@@ -196,4 +200,7 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   Delete a section
   </summary>
   * Navigate the section and click the Trash bin button, then click Confirm to delete section.
+
+  -![Dashboard Interface]({{site.baseurl}}/assets/images/delete-section.png )
+
 </details>
