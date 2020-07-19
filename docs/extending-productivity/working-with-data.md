@@ -54,7 +54,7 @@ From the existing chart in Detail view, drill down into details with just a doub
 
 * _Schedule as Report_. You can set up a report to run itself daily, weekly or monthly and send the results automatically to the people who need to see them, so that you don’t have to remember to log in and do it yourself.
 
--![Drill Down]({{site.baseurl}}/assets/images/schedule-as-report-drill-down.png "Schedule Report")
+      -![Drill Down]({{site.baseurl}}/assets/images/schedule-as-report-drill-down.png "Schedule Report")
 
 ### Apply filters to the dashboard
 To apply global filters to indicators via dashboard main page or in the individual indicator.
