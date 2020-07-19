@@ -21,7 +21,7 @@ nav_order: 4
 
 _Export/Send dialog box_
 
-## Share and export tile/indicator
+## Share and export indicator
 1. Navigate the indicator and click the Gear button, then choose Export/Send.
 
 -![Export/Send dialog box]({{site.baseurl}}/assets/images/export-send-indicator.png "Export/Send dialog box")
