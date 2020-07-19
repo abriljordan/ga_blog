@@ -23,9 +23,7 @@ _Export/Send dialog box_
 
 ## Share and export indicator
 1. Navigate the indicator and click the Gear button, then choose Export/Send.
-
 -![Export/Send dialog box]({{site.baseurl}}/assets/images/export-send-indicator.png "Export/Send dialog box")
-
 2. Click a method for exporting: CSV, Microsoft PowerPoint, PDF, Microsoft Excel, Print, or share as email.
 3. If you choose share dashboard as email, enter the required information: email, subject, message.
 -![Export/Send dialog box]({{site.baseurl}}/assets/images/export-send-indicator-email.png "Export/Send dialog box")
