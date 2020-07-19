@@ -30,7 +30,8 @@ nav_order: 5
 In the left pane of the Dashboard window, click Admin Console. If you do not see Admin Console, you may not have the right admin permissions; please contact your tech admin.
 1. Click Permissions > User.
 2. Click the Create User button.
--![Create User]({{site.baseurl}}/assets/images/add-a-user.png "Create User")
+
+      -![Create User]({{site.baseurl}}/assets/images/add-a-user.png "Create User")
 3. Enter the required information.
     * The user's name, email and role.
     * The email address must be valid.
@@ -45,7 +46,8 @@ The new user receives an email that includes a link to the web application, user
 In the left pane of the Dashboard window, click Admin Console. If you do not see Admin Console, you may not have the right admin permissions; please contact your tech admin.
 1. Click the Bulk Create User button.
 2. Click Select File, and upload the CSV.
--![Bulk Create User]({{site.baseurl}}/assets/images/add-multiple-users.png "Bulk Create User")
+
+      -![Bulk Create User]({{site.baseurl}}/assets/images/add-multiple-users.png "Bulk Create User")
 3. Map the CSV fields. Click on the Disclosure drop-down arrow.
   * In the 'CSV Header Row' column, find the field which contains your users' first names — select 'First Name' from the drop-down list in the 'Mapping' column.
   * In the 'CSV Header Row' column, find the field which contains your users' last names — select 'Last Name' from the drop-down list in the 'Mapping' column.
@@ -62,7 +64,8 @@ In the left pane of the Dashboard window, click Admin Console. If you do not see
 1. Click Permissions > User.
 2. To select user(s), check the box to the left of the username.
 3. After selecting the user(s), click the Bulk Edit button.
--![Bulk Create User]({{site.baseurl}}/assets/images/edit-multiple-users.png "Bulk Multiple Users")
+
+      -![Bulk Create User]({{site.baseurl}}/assets/images/edit-multiple-users.png "Bulk Multiple Users")
 4. Update the user's information.
 5. Once you're done, click the Update All button.
 
