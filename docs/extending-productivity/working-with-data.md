@@ -61,6 +61,8 @@ To apply global filters to indicators via dashboard main page or in the individu
 2. Click on the plus (+) sign, then select the appropriate filter by checking on the boxes.
 3. Click the Add button, then click the GO! button to apply filter.
 
+-![Export/Send dialog box]({{site.baseurl}}/assets/images/filter-global.png "Export/Send dialog box")
+
 If you wish the filters to be saved, click the Save Filters to Page button, otherwise, click the Clear Filters button.
 
 Apply local filters to an indicator
@@ -68,3 +70,5 @@ Apply local filters to an indicator
 1. Navigate the dashboard and once you've found the indicator, click the Gear button, then choose Filter.
 2. Click the plus (+) sign, then check the boxes next to the filter.
 3. After adding filters, click the Add button, then click the GO! button to apply filters.
+
+-![Export/Send dialog box]({{site.baseurl}}/assets/images/filter-local.png "Export/Send dialog box")
