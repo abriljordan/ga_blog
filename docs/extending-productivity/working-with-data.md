@@ -46,13 +46,15 @@ From the existing chart in Detail view, drill down into details with just a doub
 
 
 
-* _Filter Columns_. Click on the disclosure button or drop down arrow for the column you want to filter. A pop-up box appears. Check the boxes next to the data you want to filter. The data will be filtered, hiding any content that does not match the criteria. When data is filtered, only rows that meet the criteria will display and other rows will be hidden. You can analyze your data better using filter columns.
+* _Filter Columns_. Click on the pull-down arrow for the column you want to filter. A pop-up box appears. Check the boxes next to the data you want to filter. The data will be filtered, hiding any content that does not match the criteria. When data is filtered, only rows that meet the criteria will display and other rows will be hidden. You can analyze your data better using filter columns.
 
 * _Sorting arrows_. First, choose the column that you would like sorted. Click on the arrows over the column you wish to sort. The two small arrows is an indication that this column is available for sorting. When the arrow is clicked, the rows in the table are ordered ascending by the specific column values. If the same label is clicked again, the order is reversed.
 
 * _Send/export_. The arrow allows you to  export or send the current data in the table in CSV or Excel format.
 
 * _Schedule as Report_. You can set up a report to run itself daily, weekly or monthly and send the results automatically to the people who need to see them, so that you don’t have to remember to log in and do it yourself.
+
+-![Drill Down]({{site.baseurl}}/assets/images/schedule-as-report-drill-down.png "Schedule Report")
 
 ### Apply filters to the dashboard
 To apply global filters to indicators via dashboard main page or in the individual indicator.
