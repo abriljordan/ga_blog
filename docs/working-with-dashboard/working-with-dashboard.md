@@ -65,10 +65,10 @@ The Data+Design web application allows you to create, edit and delete dashboard,
 
   1.	Navigate the dashboard, then click the  plus (+) of the section, choose Existing.
   2.	Click the Disclosure button, then choose the indicator.
+  3.	Once you’re done, click Create.
 
   -![Dashboard Interface]({{site.baseurl}}/assets/images/add-existing-indicator.png )
 
-  3.	Once you’re done, click Create.
 </details>
 
 <details markdown="block">
@@ -78,13 +78,9 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   You can upload external data in a .csv or excel format through the user interface.
 
   1.	Navigate the section where you want to upload the indicator and click plus (+).
-
   -![Dashboard Interface]({{site.baseurl}}/assets/images/upload-indicator.png )
-
   2.	Click Upload, a user interface will appear to help you upload the dataset.
-
   -![Dashboard Interface]({{site.baseurl}}/assets/images/section-upload-indicator.png )
-
   3.	Under Details section, import the .csv or excel, then click Next.
   4.	Under Select Columns section, select the columns that you want to be included in the indicator, then click Next.
   5.	Preview the dataset under Preview section, then click Next.
@@ -98,9 +94,7 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   Rename indicator
   </summary>
   1.	Navigate the dashboard and click the Gear of the indicator, choose Rename.
-
   -![Dashboard Interface]({{site.baseurl}}/assets/images/rename-indicator.png )
-
   2.	In the Caption field, type the new name for the indicator. You may also want to put some information in the Info text field.
   3.	Click Update to apply changes.
 </details>
