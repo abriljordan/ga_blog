@@ -25,12 +25,9 @@ The Add to Favorites allows you to customize your dashboard by selecting indicat
 -![Dashboard Interface]({{site.baseurl}}/assets/images/add-favorites.png )
 
 ## Rearrange sections
-1. Navigate the dashboard and click the Gear button located in the main page.
-
+1.  Navigate the dashboard and click the Gear button located in the main page.
+2.  Drag the sections to reorder, then click Update.
 -![Dashboard Interface]({{site.baseurl}}/assets/images/rearrange-sections.png )
-
-2. Drag the sections to reorder, then click Update.
-
 ## Move/copy indicator
 1. Navigate the indicator that you want to copy or move.
 2. Click the Gear, then choose Move/Copy.

@@ -105,13 +105,7 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   </summary>
   1.	Create cohort file for uploading (csv or excel).
   2.	Navigate to the dashboard and click Upload Cohort located just above the sections. A new user interface will appear to help you upload cohort.
-
-  -![Dashboard Interface]({{site.baseurl}}/assets/images/upload-cohort.png )
-
   3.	Under Details section, upload the .csv or excel file.
-
-  -![Dashboard Interface]({{site.baseurl}}/assets/images/upload-cohort-section.png )
-
   4.	Once you’re done, click Next.
   5.	Under Student Details and Dataset section, fill in the required fields.
   6.	Once you’re done, click Submit.
@@ -155,7 +149,7 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   <summary>
   Delete Card
   </summary>
-  * Navigate the Card and click the Gear button, then click Delete Dashboard.
+  * Navigate the Card and click the Gear button, then click Delete Card.
 </details>
 
 <details markdown="block">
@@ -181,12 +175,12 @@ The Data+Design web application allows you to create, edit and delete dashboard,
   <summary>
   Edit section name
   </summary>
-  1. Navigate the section and click the Pencil button.
+  *  Navigate the section and click the Pencil button.
 
   -![Dashboard Interface]({{site.baseurl}}/assets/images/rename-section.png )
 
-  2. Give the section a new name.
-  3. Once you’re done, click Update.
+  *  Give the section a new name.
+  *  Once you’re done, click Update.
 </details>
 
 <details markdown="block">
