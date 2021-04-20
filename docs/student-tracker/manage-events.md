@@ -40,6 +40,16 @@ nav_order: 3
 
 [comment]: # (![Dashboard Interface]({{site.baseurl}}/assets/images/student.update-assignment-form.png =100x20))
 
+**Assign assignments**
+* Go to > List of Assignments.
+* Navigate to the assignment, then click Assign Students.
 
+![Dashboard Interface]({{site.baseurl}}/assets/images/student.assign-assignment-form.png)
 
+* Check box to select students, then click the arrow pointing right.
+* Click Save button to save changes.
+
+**Remove students from assignments**
+* To remove the students from the assignment, check box to select students, then click arrow pointing left.
+* Click Save button to save changes.
 ## Events
