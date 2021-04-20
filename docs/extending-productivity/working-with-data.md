@@ -7,20 +7,11 @@ nav_order: 3
 ---
 
 # Working with Data
-{: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
+## Student drill down
+Navigate the dashboard and select an indicator. Click on the indicator's name and you will be taken to another page with a new set of user interface. The following are the controls in the user interface:
 
-1. TOC
-{:toc}
-
----
-## Drill-down to explore data hierarchies.
-### Drill-down for a chart
-Navigate the dashboard and select an indicator. Click on the indicator's name and you will taken to another page with a new set of user interface. The following are the controls in the user interface:
-
--![Detail View Interface]({{site.baseurl}}/assets/images/detail-view.png "Detail View Interface")
+![Detail View Interface]({{site.baseurl}}/assets/images/detail-view.png "Detail View Interface")
 
 
 
@@ -32,17 +23,16 @@ Navigate the dashboard and select an indicator. Click on the indicator's name an
 
 * _Cohort vs Non-cohort_ You can compare multiple measures between cohort students with non-cohort students. Click the Gear button and choose Cohort vs Non-cohort, then click Groups field and select available groups in the dashboard. Once you're done, click Submit.
 
-The chart will be updated based on the parameter.
+    The chart will be updated based on the parameter.
 
 * _Time Comparison_ You can chart two or more data series on the same chart so that the trends from those series can be visually compared. You can create a chart that presents a side-by-side time comparison of three time periods.
 1. Click the Gear button and choose Time Comparison, then fill in the required information. Once you're done, click the Submit button.
 
-If you want to revert the changes, click the Gear button and then choose Reset.
+    If you want to revert the changes, click the Gear button and then choose Reset.
 
-### Tabular view of a chart
-From the existing chart in Detail view, drill down into details with just a double click on a slice or column. You will be taken to another page with new user interface. With drill-down you can easily see the data that made the chart in a tabular format. The following are the controls that can be used in exploring data points and view row-level data in the grid.
+To drill down into the next level of detail, double click on a slice or column. You will be taken to another page with new user interface. With drill-down you can easily see the data that made the chart in a tabular format. The following are the controls that can be used in exploring data points and view row-level data in the grid.
 
--![Drill Down]({{site.baseurl}}/assets/images/drill-down.png "Drill Down Interface")
+![Drill Down]({{site.baseurl}}/assets/images/drill-down.png "Drill Down Interface")
 
 
 
@@ -54,23 +44,4 @@ From the existing chart in Detail view, drill down into details with just a doub
 
 * _Schedule as Report_. You can set up a report to run itself daily, weekly or monthly and send the results automatically to the people who need to see them, so that you don’t have to remember to log in and do it yourself.
 
-      -![Drill Down]({{site.baseurl}}/assets/images/schedule-as-report-drill-down.png "Schedule Report")
-
-### Apply filters to the dashboard
-To apply global filters to indicators via dashboard main page or in the individual indicator.
-
-1. Navigate the dashboard and click the Global Filters button located above the sections. A new set of controls appears just below the Global Filters button.
-2. Click on the plus (+) sign, then select the appropriate filter by checking on the boxes.
-3. Click the Add button, then click the GO! button to apply filter.
-
--![Export/Send dialog box]({{site.baseurl}}/assets/images/filter-global.png "Export/Send dialog box")
-
-If you wish the filters to be saved, click the Save Filters to Page button, otherwise, click the Clear Filters button.
-
-Apply local filters to an indicator
-
-1. Navigate the dashboard and once you've found the indicator, click the Gear button, then choose Filter.
-2. Click the plus (+) sign, then check the boxes next to the filter.
-3. After adding filters, click the Add button, then click the GO! button to apply filters.
-
--![Export/Send dialog box]({{site.baseurl}}/assets/images/filter-local.png "Export/Send dialog box")
+![Drill Down]({{site.baseurl}}/assets/images/schedule-as-report-drill-down.png "Schedule Report")

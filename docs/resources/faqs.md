@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Frequently Asked Questions
-nav_order: 5
+title: FAQ
+parent: Resources
+#nav_order: 6
 ---
 
 # Dashboard FAQ
@@ -16,7 +17,7 @@ This section provides answers to a few common questions we receive at the Help D
 - [How many dashboards can I have?](#how-many-dashboards-can-i-have)
 - [What user role should I have to use dashboards?](#what-user-role-should-i-have-to-use-dashboards)
 - [How I can provide feedback?](#how-can-i-provide-feedback)
-
+- [I can't drill down to the student list - what should I do?](#I-can't-drill-down-to-the-student-list-what-should-I-do)
 
 
 ## Can I download the reports as a PDF?
@@ -39,3 +40,6 @@ All users can view dashboards and set up alerts on indicator changes. Only tech 
 
 ## How I can provide feedback?
 The Data+Design team would love to hear from you. If you have feedback or inquiries, you can provide them within the Data+Design Dashboard page. Click the question mark icon on the lower portion of the dashboard and follow the instructions.
+
+## I can't drill down to the student list - what should I do?
+You will not be able to drill unless you have switched to ‘Local View’ ![Local View]({{site.baseurl}}/assets/images/local-view.png). From the dashboard navigation bar, click 'Global View' ![Global View]({{site.baseurl}}/assets/images/global-view.png) in order to switch to 'Local View'. If all else fails, please contact tech support.

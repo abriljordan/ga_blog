@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Support for Dashboard
-nav_order: 4
+parent: Resources
+#nav_order: 5
 ---
 
 # Getting Support
