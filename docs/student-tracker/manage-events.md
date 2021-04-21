@@ -52,4 +52,12 @@ nav_order: 3
 **Remove students from assignments**
 * To remove the students from the assignment, check box to select students, then click arrow pointing left.
 * Click Save button to save changes.
+
 ## Events
+* Go to > List of Students.
+* Click Calendar icon, then select Events.
+
+![Dashboard Interface]({{site.baseurl}}/assets/images/student.events-list.png)
+
+
+![Dashboard Interface]({{site.baseurl}}/assets/images/student.events-calendar-view.png)
