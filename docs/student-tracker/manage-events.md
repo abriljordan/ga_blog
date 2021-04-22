@@ -53,6 +53,18 @@ nav_order: 3
 * To remove the students from the assignment, check box to select students, then click arrow pointing left.
 * Click Save button to save changes.
 
+
+**Update and View Assignment History**
+* Go to > List of Assignments.
+* Click History.
+
+![Dashboard Interface]({{site.baseurl}}/assets/images/student.assignment-history.png)
+
+* Click student name to update assignment status.
+
+![Dashboard Interface]({{site.baseurl}}/assets/images/student.assignment-update-status.png)
+
+
 ## Events
 * Go to > List of Students.
 * Click Calendar icon, then select Events.

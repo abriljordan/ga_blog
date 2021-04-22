@@ -27,7 +27,7 @@ In the left pane of the Dashboard window, click Admin Console > Permissions, the
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.list-of-teachers.png)
 
-## View students
+## View Students
 
 **Required role**: Tech Admin
 
