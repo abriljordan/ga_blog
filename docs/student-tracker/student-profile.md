@@ -20,6 +20,8 @@ You can directly email and send SMS (text message) the student from the mail and
 
 **Activity**. The *Activity* tab shows student’s credits and scores earned, etc.
 
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.activity.png)
+
 **Contact Notes**. The *Contact Notes* tab shows the notes that have been added.
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.contact-notes.png)
