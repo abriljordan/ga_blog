@@ -24,6 +24,8 @@ You can directly email and send SMS (text message) the student from the mail and
 
 **Learning Plan**. The *Learning Plan* tab shows the transcripts and the weekly progress.
 
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.learning-plan.png)
+
 **College Tracker**. The *College Tracker* tab shows ten item checklists:
 * SAT/ACT
 * Career Assessment
@@ -35,5 +37,7 @@ You can directly email and send SMS (text message) the student from the mail and
 * Military
 * CAL grant
 * Trade school
+
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.college-tracker.png)
 
 **Assignments**. The *Assignments* tab shows the list of assignments, scores, and status
