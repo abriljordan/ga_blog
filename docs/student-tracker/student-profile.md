@@ -20,6 +20,8 @@ You can directly email and send SMS (text message) the student from the mail and
 
 **Contact Notes**. The *Contact Notes* tab shows the notes that have been added.
 
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.contact-notes.png)
+
 **Timeline Credits**. The *Timeline Credits* tab shows credits earned by learning period and school year.
 
 **Learning Plan**. The *Learning Plan* tab shows the transcripts and the weekly progress.
