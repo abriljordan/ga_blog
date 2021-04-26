@@ -3,7 +3,7 @@ layout: default
 title: Manage Notes
 parent: Student Tracker
 has_toc: true
-nav_order: 3
+#nav_order: 3
 ---
 
 # Add and View Notes

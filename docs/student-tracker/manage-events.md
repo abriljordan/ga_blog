@@ -3,7 +3,7 @@ layout: default
 title: Manage Events
 parent: Student Tracker
 has_toc: true
-nav_order: 3
+#nav_order: 3
 ---
 
 # Manage events

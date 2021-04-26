@@ -3,7 +3,7 @@ layout: default
 title: Send SMS
 parent: Student Tracker
 has_toc: true
-nav_order: 3
+#nav_order: 3
 ---
 
 # Send SMS (text message)
