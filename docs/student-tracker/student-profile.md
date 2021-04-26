@@ -49,3 +49,5 @@ You can directly email and send SMS (text message) the student from the mail and
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.college-tracker.png)
 
 **Assignments**. The *Assignments* tab shows the list of assignments, scores, and status
+
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.assignments.png)
