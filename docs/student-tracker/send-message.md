@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Send Email
+title: Send Message
 parent: Student Tracker
 has_toc: true
 #nav_order: 4
