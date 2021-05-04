@@ -6,8 +6,18 @@ has_toc: true
 #nav_order: 4
 ---
 
-# Send Email
-Email can be sent via Action Box and the student profile page. Email activities are captured and reflected on Contact Notes and Activity tab in the student profile page.
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+# Send Message
+Email and text message can be sent via Action Box and the student profile page. Email and text message activities are captured and reflected on Contact Notes and Activity tab in the student profile page.
 
 ## Write an email
 1. On the student list, check the box to select one or more students.
