@@ -21,8 +21,10 @@ Email and text message can be sent via Action Box and the student profile page. 
 
 <!--- ![Dashboard Interface]({{site.baseurl}}/assets/images/student.actionbox-send.png) --->
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.actionbox.png)
-<!---![Dashboard Interface]({{site.baseurl}}/assets/images/student.student-profile-send-email.png)--->
+*Action Box*
 
+![Dashboard Interface]({{site.baseurl}}/assets/images/student.profile-send-message.png)
+*Student Profile*
 ## Write an email
 1. On the student list, check the box to select one or more students.
 2. Go to the Action Box, click Send Mail.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manage Events
+title: Manage Assignments & Events
 parent: Student Tracker
 has_toc: true
 #nav_order: 3
@@ -65,11 +65,18 @@ has_toc: true
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.assignment-update-status.png)
 
 
-## Events
-* Go to > List of Students.
-* Click Calendar icon, then select Events.
+## Add and View Events
+1. On the student list, check the box to select one or more students.
+2. Go to the Action Box, click Add Event.
+3. Write your event.
+4. At the bottom of the page, click Add.
+
+![Dashboard Interface]({{site.baseurl}}/assets/images/student.add-event-form.png)
+
+* To view the list of events created, go to the student list, click the calendar icon, then select Events.
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.events-list.png)
-
+*List of Events*
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.events-calendar-view.png)
+*Calendar view of events*
