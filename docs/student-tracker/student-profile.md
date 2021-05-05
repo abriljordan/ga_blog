@@ -6,7 +6,17 @@ has_toc: true
 #nav_order: 6
 ---
 
-## Student Profile
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+# Student Profile
 
 The student profile shows an overview of course performance and student information. To open a student profile, select a student name from the Student list page.
 
@@ -14,40 +24,47 @@ There are seven tabs that show you student information: Student Profile, Activit
 
 You can directly email and send SMS (text message) the student from the mail and SMS icon in the right.
 
-**Student Profile**. The *Student Profile* tab shows student name, student’s and parent’s contact number, grade, email add, birth date, teacher, tutor, needs, subgroup, no. of contact days, cohort senior, A-G, CTE, dual enrollment, courses enrolled, WIOA.
+## Student Profile
+The *Student Profile* tab shows student name, student’s and parent’s contact number, grade, email add, birth date, teacher, tutor, needs, subgroup, no. of contact days, cohort senior, A-G, CTE, dual enrollment, courses enrolled, WIOA.
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.main.png)
 
-**Activity**. The *Activity* tab shows student’s credits and scores earned, etc.
+## Activity
+The *Activity* tab shows student’s credits and scores earned, etc.
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.activity.png)
 
-**Contact Notes**. The *Contact Notes* tab shows the notes that have been added.
+## Contact Notes
+The *Contact Notes* tab shows the notes that have been added.
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.contact-notes.png)
 
-**Timeline Credits**. The *Timeline Credits* tab shows credits earned by learning period and school year.
+## Timeline Credits
+The *Timeline Credits* tab shows credits earned by learning period and school year.
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.timeline-credits.png)
 
-**Learning Plan**. The *Learning Plan* tab shows the transcripts and the weekly progress.
+## Learning Plan
+The *Learning Plan* tab shows the transcripts and the weekly progress.
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.learning-plan.png)
 
-**College Tracker**. The *College Tracker* tab shows ten item checklists:
-* SAT/ACT
-* Career Assessment
-* Registered to vote
-* FAFSA/DREAM ACT complete
-* Applied to a college/university
-* Scholarships
-* Employment
-* Military
-* CAL grant
-* Trade school
+## College Tracker
+The *College Tracker* tab shows ten item checklists:
+1.  SAT/ACT
+2.  Career Assessment
+3.  Registered to vote
+4.  FAFSA/DREAM ACT complete
+5.  Applied to a college/university
+6.  Scholarships
+7.  Employment
+8.  Military
+9.  CAL grant
+10. Trade school
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.college-tracker.png)
 
-**Assignments**. The *Assignments* tab shows the list of assignments, scores, and status
+## Assignments
+The *Assignments* tab shows the list of assignments, scores, and status
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.assignments.png)
