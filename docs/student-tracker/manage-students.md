@@ -31,7 +31,7 @@ In the left pane of the Dashboard window, click Admin Console > Permissions, the
 
 **Required role**: Tech Admin
 
-* From the list of teachers, click View Assign Students that corresponds to a teacher.
+* From the list of teachers, click **View Assign Students** that corresponds to a teacher.
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.list-of-students.png)
 
@@ -50,11 +50,11 @@ In the left pane of the Dashboard window, click Admin Console > Permissions, the
 ## Add and remove students
 
 **Add students to the group:**
-*	Check box to select student, then click blue arrow pointing right.
+*	Check the box to select students, then click blue arrow pointing right.
 * Click Save button to save changes.
 
 **Remove students from the group:**
-*	Check box to select student, then click blue arrow pointing left.
+*	Check the box to select student, then click blue arrow pointing left.
 * Click Save button to save changes.
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.add-remove-students-form.png)
