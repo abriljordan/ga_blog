@@ -25,10 +25,9 @@ has_toc: true
 2. Hover mouse pointer over Action Box, click Add Note.
 <!--- ![Dashboard Interface]({{site.baseurl}}/assets/images/student.actionbox-add-view-note-check-box.png) --->
 3. Fill out required information.
-
+4. Click Save button to save the note.
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.actionbox-add-note-form.png)
 
-4. Click Save button to save the note.
 
 ## View and edit notes
 
