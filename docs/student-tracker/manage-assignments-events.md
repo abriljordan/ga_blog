@@ -25,7 +25,7 @@ has_toc: true
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.assignment-list.png)
 
 **Create an assignment**
-1. Go to the **List of Students**.
+1. Go to the student lists.
 2. Click **Calendar** icon, then select **Assignments**.
 3. Click **Add Assignment** and fill out the form and any instructions.
 4. Click **Create** to save changes.
@@ -33,7 +33,7 @@ has_toc: true
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.create-assignment-form.png)
 
 **Update an assignment**
-1. Go to the **List of Students**.
+1. Go to the student lists.
 2. Click **Calendar** icon, then select **Assignments**.
 3. Click the **assignment title** and update assignment and any instructions.
 4. Click **Update** to save changes.
@@ -41,7 +41,7 @@ has_toc: true
 [comment]: # (![Dashboard Interface]({{site.baseurl}}/assets/images/student.update-assignment-form.png =100x20))
 
 **Assign assignments**
-1. Go to the **List of Assignments**.
+1. Go to the student lists.
 2. Navigate to the assignment, then click **Assign Students**.
 3. Check box to select students, then click the arrow pointing right.
 4. Click **Save** button to save changes.
@@ -54,7 +54,7 @@ has_toc: true
 
 
 **Update and View Assignment History**
-1. Go to the **List of Assignments**.
+1. Go to the student lists.
 2. Click **History**.
 3. Click student name to update assignment status.
 
@@ -73,7 +73,7 @@ has_toc: true
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.add-event-form.png)
 
 ## View Events
-* To view the list of events created, go to the **List of Students**, click the calendar icon, then select **Events**.
+* To view the list of events created, go to the student lists, click the calendar icon, then select **Events**.
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.events-list.png)
 *List of Events*
