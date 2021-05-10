@@ -21,7 +21,7 @@ has_toc: true
 ## Add Notes
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.actionbox-add-or-view-note.png)
-1. On the student list, check the box to select one or more students.
+1. On the student list, select one or more students.
 2. Go to the **Action Box**, then click **Add Note**. You can also add notes under the student profile.
 <!--- ![Dashboard Interface]({{site.baseurl}}/assets/images/student.actionbox-add-view-note-check-box.png) --->
 3. Fill out the form and any instructions.

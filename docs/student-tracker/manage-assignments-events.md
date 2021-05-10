@@ -49,7 +49,7 @@ has_toc: true
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.assign-assignment-form.png)
 
 **Remove students from assignments**
-1. To remove the students from the assignment, check the box to select students, then click arrow pointing left.
+1. To remove the students from the assignment, select one or more students., then click arrow pointing left.
 2. Click **Save** button to save changes.
 
 
@@ -65,7 +65,7 @@ has_toc: true
 *Update assignment status*
 
 ## Add Events
-1. On the student list, check the box to select one or more students.
+1. On the student list, select one or more students.
 2. Go to the **Action Box**, click **Add Event**.
 3. Write your event.
 4. At the bottom of the page, click **Add**.

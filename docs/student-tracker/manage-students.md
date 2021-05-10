@@ -50,11 +50,11 @@ In the left pane of the Dashboard window, click Admin Console > Permissions, the
 ## Add and remove students
 
 **Add students to the group:**
-*	Check the box to select students, then click blue arrow pointing right.
-* Click **Save** button to save changes.
+1. Select one or more students., then click blue arrow pointing right.
+2. Click **Save** button to save changes.
 
 **Remove students from the group:**
-*	Check the box to select students, then click blue arrow pointing left.
-* Click **Save** button to save changes.
+1. Select one or more students., then click blue arrow pointing left.
+2. Click **Save** button to save changes.
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.add-remove-students-form.png)
