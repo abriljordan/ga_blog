@@ -40,12 +40,19 @@ has_toc: true
 
 [comment]: # (![Dashboard Interface]({{site.baseurl}}/assets/images/student.update-assignment-form.png =100x20))
 
-**Assign work/assignments to students**
+**Assign work/assignments to multiple students**
+**Option A**
 1. Go to the student lists.
 2. Click Calendar icon, then select Assignments.
 3. Navigate to the assignment, then click Assign Students.
 4. Select students from the list (left), then click the arrow pointing right to add students.
 5. Click the Save button to save changes.
+
+**Option B**
+**Assign work/assignments to a student**
+1. Go to the student lists.
+2. Select student from the list, then go to Action Box, then click Assign Assignment.
+3. Select assignment from the drop down list, then click Apply.
 
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.assign-assignment-form.png)
