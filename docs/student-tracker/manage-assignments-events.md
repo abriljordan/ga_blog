@@ -40,7 +40,7 @@ has_toc: true
 
 [comment]: # (![Dashboard Interface]({{site.baseurl}}/assets/images/student.update-assignment-form.png =100x20))
 
-**Assign assignments**
+**Assign work/assignments to students**
 1. Go to the student lists.
 2. Navigate to the assignment, then click Assign Students.
 3. Check box to select students, then click the arrow pointing right.
