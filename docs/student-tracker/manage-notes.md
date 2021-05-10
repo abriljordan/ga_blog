@@ -45,7 +45,7 @@ has_toc: true
 ## View and edit notes
 
 1. Go to the Action Box, then click Note Lists.
-2. Navigate the list of notes, then click Edit than corresponds to the note, update details, and any instructions.
+2. Navigate the list of notes, then click Edit than corresponds to the note, update the details, and any instructions.
 3. Click Save button to save changes.
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.actionbox-note-lists.png)
