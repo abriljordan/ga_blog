@@ -32,7 +32,7 @@ has_toc: true
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.create-assignment-form.png)
 
-**Update an assignment**
+**View and update an assignment**
 1. Go to the student lists.
 2. Click Calendar icon, then select Assignments.
 3. Click the Assignment Title and update the assignment and any instructions.
@@ -42,21 +42,36 @@ has_toc: true
 
 **Assign work/assignments to students**
 1. Go to the student lists.
-2. Navigate to the assignment, then click Assign Students.
-3. Check box to select students, then click the arrow pointing right.
-4. Click Save button to save changes.
+2. Click Calendar icon, then select Assignments.
+3. Navigate to the assignment, then click Assign Students.
+4. Select students from the list (left), then click the arrow pointing right to add students.
+5. Click the Save button to save changes.
+
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.assign-assignment-form.png)
 
 **Remove students from assignments**
-1. To remove the students from the assignment, select one or more students., then click arrow pointing left.
-2. Click Save button to save changes.
+1. Go to student lists.
+2. Click Calendar icon, then select Assignments.
+3. Navigate to the assignment from the list, then click Assign Students.
+4. Select students from the list (right), then click the arrow pointing left to remove students.
+5. Click the Save button to save changes.
+
+**View (and update) assignment status from a particular subject**
+1. Go to student lists.
+2. Click the Calendar icon, then select Assignments.
+3. Navigate to the assignment from the list, then click View Students.
+4. Use Search and other filters to narrow down results.
+5. Click the student name to update assignment status.
 
 
-**Update and View Assignment History**
-1. Go to the student lists.
-2. Click History.
-3. Click student name to update assignment status.
+**View (and update) assignment status from all subject**
+1. Go to student lists.
+2. Click the Calendar icon, then select Assignments.
+3. Click History.
+4. Use Search and other filters to narrow down results.
+5. Click the student name to update assignment status.
+
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.assignment-history.png)
 *Assignment History*
