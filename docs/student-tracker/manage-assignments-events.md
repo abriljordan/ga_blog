@@ -95,7 +95,9 @@ has_toc: true
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.add-event-form.png)
 
 ## View and edit events
-* Go to the student lists, then click the Calendar icon, and then select Events.
+1. Go to the student lists, then click the Calendar icon, and then select Events.
+2. To update events details, navigate to the list of events, use Search and other filters to narrow down results.
+3. Click the Event Title and then update the event.
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.events-list.png)
 *List of Events*
