@@ -86,7 +86,7 @@ has_toc: true
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.assignment-update-status.png)
 *Update assignment status*
 
-## Add Events
+## Add events
 1. On the student list, select one or more students.
 2. Go to the Action Box, then click Add Event.
 3. Write your event.
@@ -94,7 +94,7 @@ has_toc: true
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.add-event-form.png)
 
-## View Events
+## View and edit events
 * Go to the student lists, then click the Calendar icon, and then select Events.
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.events-list.png)
