@@ -26,12 +26,20 @@ Email and text message can be sent via Action Box and the student profile page. 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.profile-send-message.png)
 *Student Profile*
 ## Write an email
+**Option A**
 1. On the list of students, select one or more students.
 2. Go to Action Box, then click Send Mail.
-3. Or click the student Local ID to view the profile, then click the Send Mail icon in the left side of the window.
-4. Write your message in the Editor. Use Quick Keys.
-5. If you choose to send it as confidential, click Is this Email Confidential? in the bottom right of the window.
-6. At the bottom of the page, click Send.
+3. Write your message in the Editor. Use Quick Keys.
+4. If you choose to send it as confidential, click Is this Email Confidential? in the bottom right of the window.
+5. At the bottom of the page, click Send.
+
+**Option B**
+1. On the list of students, click the student Local ID to view the profile.
+2. Then click the Send Mail icon in the right side of the window.
+3. Write your message in the Editor. Use Quick Keys.
+4. If you choose to send it as confidential, click Is this Email Confidential? in the bottom right of the window.
+5. At the bottom of the page, click Send.
+
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.actionbox-send-email-form.png)
 
 
