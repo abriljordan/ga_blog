@@ -40,15 +40,15 @@ has_toc: true
 
 [comment]: # (![Dashboard Interface]({{site.baseurl}}/assets/images/student.update-assignment-form.png =100x20))
 
+**Option A :**
 **Assign work/assignments to multiple students**
-**Option A**
 1. Go to the student lists.
 2. Click Calendar icon, then select Assignments.
 3. Navigate to the assignment, then click Assign Students.
 4. Select students from the list (left), then click the arrow pointing right to add students.
 5. Click the Save button to save changes.
 
-**Option B**
+**Option B :**
 **Assign work/assignments to a student**
 1. Go to the student lists.
 2. Select student from the list, then go to Action Box, then click Assign Assignment.
@@ -88,7 +88,7 @@ has_toc: true
 
 ## Add Events
 1. On the student list, select one or more students.
-2. Go to the Action Box, click Add Event.
+2. Go to the Action Box, then click Add Event.
 3. Write your event.
 4. At the bottom of the page, click Add.
 
