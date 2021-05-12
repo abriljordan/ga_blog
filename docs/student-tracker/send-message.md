@@ -52,7 +52,7 @@ Email and text message can be sent via Action Box and the student profile page. 
 5. At the bottom of the page, click Send.
 
 **Option B**
-1. On the list of students, select one students.
+1. On the list of students, select one student.
 2. Click the student Local ID to view the profile, then click the Send Mail icon in the right side of the window.
 3. Write your message in the Message Note. Use Quick Keys.
 4. If you choose to send it as confidential, click Is this SMS Confidential? in the bottom right of the window.
