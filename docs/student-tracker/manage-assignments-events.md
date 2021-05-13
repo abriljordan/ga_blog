@@ -22,7 +22,7 @@ has_toc: true
 
 [comment]: # (![Dashboard Interface]({{site.baseurl}}/assets/images/student.event-assignments.png))
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student.assignment-list.png)
+![Assignment List]({{site.baseurl}}/assets/images/student.assignment.list.png)
 
 **Create an assignment**
 1. Go to the student lists.
@@ -30,7 +30,7 @@ has_toc: true
 3. Click Add Assignment and fill out the form and any instructions.
 4. Click Create to save changes.
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student.create-assignment-form.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student.create.assignment.form.png)
 
 **View and update an assignment**
 1. Go to the student lists.
