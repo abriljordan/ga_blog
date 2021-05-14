@@ -22,6 +22,8 @@ has_toc: true
 
 [comment]: # (![Dashboard Interface]({{site.baseurl}}/assets/images/student.event-assignments.png))
 
+Use the "Assignment List" to view a list of all assignments you've added for a course. The list is organized by due dates and includes the title of the assignment, the periods it was assigned to, and the status. The status lets you know if scores have been saved or published. If no scores have been saved or published the status will display No scores yet.
+
 ![Assignment List]({{site.baseurl}}/assets/images/student.assignment.list.png)
 
 **Create an assignment**
