@@ -81,12 +81,12 @@ Use the "Assignment List" to view a list of all assignments you've added for a c
 4. Use Search and other filters to narrow down results.
 5. Click the student name to update assignment status.
 
-
-![Dashboard Interface]({{site.baseurl}}/assets/images/student.assignment-history.png)
 *Assignment History*
+![Dashboard Interface]({{site.baseurl}}/assets/images/student.student.history.png)
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student.assignment-update-status.png)
 *Update assignment status*
+![Dashboard Interface]({{site.baseurl}}/assets/images/student.assignment-update-status.png)
+
 
 ## Add events
 1. On the student list, select one or more students.
@@ -101,8 +101,8 @@ Use the "Assignment List" to view a list of all assignments you've added for a c
 2. To update events details, navigate to the list of events, use Search and other filters to narrow down results.
 3. Click the Event Title and then update the event.
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student.events-list.png)
 *List of Events*
+![Dashboard Interface]({{site.baseurl}}/assets/images/student.events-list.png)
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student.events-calendar-view.png)
 *Calendar view of events*
+![Dashboard Interface]({{site.baseurl}}/assets/images/student.events-calendar-view.png)
