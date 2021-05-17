@@ -71,7 +71,7 @@ Use the "Assignment List" to view a list of all assignments you've added for a c
 2. Click the Calendar icon, then select Assignments.
 3. Navigate to the assignment from the list, then click View Students.
 4. Use Search and other filters to narrow down results.
-5. Click the student name to update assignment status (Pending, Verified, Submitted, Rejected).
+5. Click the student name to update assignment status (pending, verified, submitted, rejected).
 
 
 **View (and update) assignment status from all subject**
@@ -79,7 +79,7 @@ Use the "Assignment List" to view a list of all assignments you've added for a c
 2. Click the Calendar icon, then select Assignments.
 3. Click History.
 4. Use Search and other filters to narrow down results.
-5. Click the student name to update assignment status (Pending, Verified, Submitted, Rejected).
+5. Click the student name to update assignment status (pending, verified, submitted, rejected).
 
 *Assignment History*
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.student.history.png)
