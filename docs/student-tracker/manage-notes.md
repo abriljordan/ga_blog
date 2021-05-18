@@ -30,13 +30,13 @@ has_toc: true
 
 **How to add notes to a single student**
 1. Navigate to the student and then click the pencil icon.
-2. Write your note.
+2. Write your note. Fill out the required fields (# of minutes, note, learning period, learning category, learning venue).
 3. Click Save.
 
 **How to add notes from a student's profile page**
 1. Click the student’s Local ID to view the profile.
 2. Click the pencil icon in the left side of the window.
-3. Write your note.
+3. Write your note. Fill out the required fields (# of minutes, note, learning period, learning category, learning venue).
 4. Click Save.
 
 
