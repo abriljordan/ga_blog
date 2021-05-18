@@ -38,12 +38,12 @@ In the left pane of the Dashboard window, click Admin Console > Permissions, the
 
 |   |   |
 |:---:|---|
-|<span style="color: #FF8C00;">**A**</span>| **Action Box**. Click to open new set of tools including, adding events, assigning assignments, appointments, adding and viewing of notes, sending SMS and email.  |
-|<span style="color: #FF8C00;">**B**</span>| **Admin**. Click to open a mini dashboard and upload cohort.  |
-|<span style="color: #FF8C00;">**C**</span>| **Events and assignments**. Click to view list of events and assignments and perform update and delete operations to an event and assignments.  |
-|<span style="color: #FF8C00;">**D**</span>| **Filter**. Click to select values in the filters to narrow the scope of reports on the table.  |
-|<span style="color: #FF8C00;">**E**</span>| **Local ID**. Click Local ID to view the detailed student information.  |
-|<span style="color: #FF8C00;">**F**</span>| **Add Note**. Click to add note to specific student.  |
+|<span style="color: #FF8C00;">**A**</span>| **Action Box**. Open new set of tools including, adding events, assigning assignments, appointments, adding and viewing of notes, sending SMS and email.  |
+|<span style="color: #FF8C00;">**B**</span>| **Admin**. View mini dashboard and upload cohort.  |
+|<span style="color: #FF8C00;">**C**</span>| **Events and assignments**. View list of events and assignments and perform update and delete operations to an event and assignments.  |
+|<span style="color: #FF8C00;">**D**</span>| **Filter**. Select values in the filters to narrow the scope of reports on the table.  |
+|<span style="color: #FF8C00;">**E**</span>| **Local ID**. Local ID to view the detailed student information.  |
+|<span style="color: #FF8C00;">**F**</span>| **Add Note**. Add note to specific student.  |
 |<span style="color: #FF8C00;">**G**</span>| **Search**. Search students in the database.  |
 |<span style="color: #FF8C00;">**H**</span>| List of students who are under a teacher. |
 
