@@ -29,7 +29,7 @@ Use the "Assignment List" to view a list of all assignments you've added for a c
 **Create an assignment**
 1. Go to the student lists.
 2. Click Calendar icon, then select Assignments.
-3. Click Add Assignment and fill out the form and any instructions.
+3. Click Add Assignment and fill out the required fields (title, description, subject, due date, max score, course) and any instructions.
 4. Click Create to save changes.
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.create.assignment.form.png)
@@ -91,7 +91,7 @@ Use the "Assignment List" to view a list of all assignments you've added for a c
 ## Add events
 1. On the student list, select one or more students.
 2. Go to the Action Box, then click Add Event.
-3. Write your event.
+3. Write your event. Fill out the required fields (title, description, category, start and end date, start and end time, student).
 4. Click Add to save changes.
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.add-event-form.png)
