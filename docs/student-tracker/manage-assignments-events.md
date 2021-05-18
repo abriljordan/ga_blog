@@ -91,7 +91,7 @@ Use the "Assignment List" to view a list of all assignments you've added for a c
 ## Add events
 1. On the student list, select one or more students.
 2. Go to the Action Box, then click Add Event.
-3. Write your event. Fill out the required fields (title, description, category, start and end date, start and end time, student).
+3. Fill out the required fields (title, description, category, start and end date, start and end time, student).
 4. Click Add to save changes.
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.add-event-form.png)
