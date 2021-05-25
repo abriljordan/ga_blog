@@ -32,7 +32,7 @@ Use the "Assignment List" to view a list of all assignments you've added for a c
 3. Click Add Assignment and fill out the required fields (title, description, subject, due date, max score, course) and any instructions.
 4. Click Create to save changes.
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student.create.assignment.form.png)
+![Create Assignment Form]({{site.baseurl}}/assets/images/student.create.assignment.form.png)
 
 **View and update an assignment**
 1. Go to the student lists.
