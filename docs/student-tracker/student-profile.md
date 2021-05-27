@@ -49,6 +49,10 @@ The *Learning Plan* tab shows the transcripts and the weekly progress.
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.learning-plan.png)
 
+## Certificate of Completion
+
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.CoC.png)
+
 ## College Tracker
 The *College Tracker* tab shows ten item checklists:
 1.  SAT/ACT
@@ -63,8 +67,3 @@ The *College Tracker* tab shows ten item checklists:
 10. Trade school
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.college-tracker.png)
-
-## Assignments
-The *Assignments* tab shows the list of assignments, scores, and status
-
-![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.assignments.png)
