@@ -25,7 +25,7 @@ has_toc: true
 
 In the left pane of the Dashboard window, click Admin Console > Permissions, then Teacher List. If you do not see Admin Console, you may not have the right admin permissions; please contact your tech admin.
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student.list-of-teachers.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student.list-of-teachers.png)
 
 ## View Students
 
@@ -33,7 +33,7 @@ In the left pane of the Dashboard window, click Admin Console > Permissions, the
 
 * From the list of teachers, click **View Assign Students** that corresponds to a teacher.
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student.list-of-students.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student.list-of-students.png)
 
 
 |   |   |
@@ -57,4 +57,4 @@ In the left pane of the Dashboard window, click Admin Console > Permissions, the
 1. Select one or more students., then click blue arrow pointing left.
 2. Click **Save** button to save changes.
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student.add-remove-students-form.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student.add-remove-students-form.png)

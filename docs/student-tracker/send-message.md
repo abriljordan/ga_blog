@@ -20,10 +20,10 @@ has_toc: true
 Email and text message can be sent via Action Box and the student profile page. Email and text message activities are captured and reflected on Contact Notes and Activity tab in the student profile page.
 
 <!--- ![Dashboard Interface]({{site.baseurl}}/assets/images/student.actionbox-send.png) --->
-![Dashboard Interface]({{site.baseurl}}/assets/images/student.actionbox.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student.actionbox.png)
 *Action Box*
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student.profile-send-message.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student.profile-send-message.png)
 *Student Profile*
 ## Write an email
 **Option A**
@@ -40,7 +40,7 @@ Email and text message can be sent via Action Box and the student profile page. 
 4. If you choose to send it as confidential, click Is this Email Confidential? in the bottom right of the window.
 5. At the bottom of the page, click Send.
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student.actionbox-send-email-form.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student.actionbox-send-email-form.png)
 
 
 ## Send a text message
@@ -66,4 +66,4 @@ Quick Keys are a bunch of shortcuts for turning the text and phrases you repeate
 
 <!---![Dashboard Interface]({{site.baseurl}}/assets/images/student.student-profile-send-sms.png "Action Box")--->
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student.send-sms.png "Action Box")
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student.send-sms.png "Action Box")

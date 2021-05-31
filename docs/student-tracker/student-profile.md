@@ -27,27 +27,27 @@ You can directly email and send SMS (text message) the student from the mail and
 ## Student Profile
 The *Student Profile* tab shows student name, student’s and parent’s contact number, grade, email add, birth date, teacher, tutor, needs, subgroup, no. of contact days, cohort senior, A-G, CTE, dual enrollment, courses enrolled, WIOA.
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.main.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.main.png)
 
 ## Activity
 The *Activity* tab shows student’s credits and scores earned, etc.
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.activity.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.activity.png)
 
 ## Contact Notes
 The *Contact Notes* tab shows the notes that have been added.
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.contact-notes.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.contact-notes.png)
 
 ## Timeline Credits
 The *Timeline Credits* tab shows credits earned by learning period and school year.
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.timeline-credits.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.timeline-credits.png)
 
 ## Learning Plan
 The *Learning Plan* tab shows the transcripts and the weekly progress.
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.learning-plan.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.learning-plan.png)
 
 ## Certificate of Completion
 

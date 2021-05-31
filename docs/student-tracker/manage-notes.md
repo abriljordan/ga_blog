@@ -20,7 +20,7 @@ has_toc: true
 
 ## Add Notes
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student.actionbox-add-or-view-note.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student.actionbox-add-or-view-note.png)
 **How to add note to multiple students at once**
 1. On the student list, select one or more students.
 2. Go to the Action Box, then click Add Note. You can also add notes under the student profile.
@@ -40,7 +40,7 @@ has_toc: true
 4. Click Save.
 
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student.actionbox-add-note-form.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student.actionbox-add-note-form.png)
 
 ## View and edit notes
 
@@ -48,4 +48,4 @@ has_toc: true
 2. Navigate the list of notes, then click Edit than corresponds to the note, update the details, and any instructions.
 3. Click Save button to save changes.
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student.actionbox-note-lists.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student.actionbox-note-lists.png)
