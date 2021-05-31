@@ -51,7 +51,7 @@ The *Learning Plan* tab shows the transcripts and the weekly progress.
 
 ## Certificate of Completion
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.CoC.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.CoC.png)
 
 ## College Tracker
 The *College Tracker* tab shows ten item checklists:
@@ -66,4 +66,4 @@ The *College Tracker* tab shows ten item checklists:
 9.  CAL grant
 10. Trade school
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile.college-tracker.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.college-tracker.png)
