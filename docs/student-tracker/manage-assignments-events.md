@@ -6,7 +6,7 @@ has_toc: true
 #nav_order: 3
 ---
 
-# Manage events
+# Manage Assignments & Events
 
 {: .no_toc }
 
@@ -26,7 +26,7 @@ Use the "Assignment List" to view a list of all assignments you've added for a c
 
 ![Assignment List]({{site.baseurl}}/assets/images/student.assignment.list.png)
 
-**Create an assignment**
+### Create an assignment
 1. Go to the student lists.
 2. Click Calendar icon, then select Assignments.
 3. Click Add Assignment and fill out the required fields (title, description, subject, due date, max score, course) and any instructions.
@@ -34,7 +34,7 @@ Use the "Assignment List" to view a list of all assignments you've added for a c
 
 ![Create Assignment Form]({{site.baseurl}}/assets/images/student.create.assignment.form.png)
 
-**View and update an assignment**
+### View and update an assignment
 1. Go to the student lists.
 2. Click Calendar icon, then select Assignments.
 3. Click the Assignment Title and update the assignment and any instructions.
@@ -59,14 +59,14 @@ Use the "Assignment List" to view a list of all assignments you've added for a c
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.assign-assignment-form.png)
 
-**Remove students from assignments**
+### Remove students from assignments
 1. Go to student lists.
 2. Click Calendar icon, then select Assignments.
 3. Navigate to the assignment from the list, then click Assign Students.
 4. Select students from the list (right), then click the arrow pointing left to remove students.
 5. Click the Save button to save changes.
 
-**View (and update) assignment status from a particular subject**
+### View (and update) assignment status from a particular subject
 1. Go to student lists.
 2. Click the Calendar icon, then select Assignments.
 3. Navigate to the assignment from the list, then click View Students.
@@ -74,7 +74,7 @@ Use the "Assignment List" to view a list of all assignments you've added for a c
 5. Click the student name to update assignment status (pending, verified, submitted, rejected).
 
 
-**View (and update) assignment status from all subject**
+### View (and update) assignment status from all subject
 1. Go to student lists.
 2. Click the Calendar icon, then select Assignments.
 3. Click History.
@@ -88,7 +88,7 @@ Use the "Assignment List" to view a list of all assignments you've added for a c
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student.assignment-update-status.png)
 
 
-## Add events
+# Add events
 1. On the student list, select one or more students.
 2. Go to the Action Box, then click Add Event.
 3. Fill out the required fields (title, description, category, start and end date, start and end time, student).
