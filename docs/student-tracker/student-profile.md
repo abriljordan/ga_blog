@@ -37,7 +37,7 @@ The *Activity* tab shows student’s credits and scores earned, etc.
 ## Contact Notes
 The *Contact Notes* tab shows the notes that have been added.
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.contact-notes.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.contact-notes_1.png)
 
 ## Timeline Credits
 The *Timeline Credits* tab shows credits earned by learning period and school year.
