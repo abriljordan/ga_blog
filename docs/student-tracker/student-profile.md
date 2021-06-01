@@ -30,19 +30,19 @@ The *Student Profile* tab shows student name, student’s and parent’s contact
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.main.png)
 
 ## Activity
-The *Activity* tab shows student’s credits and scores earned, etc.
+The *Activity* tab shows how a student allocate time for the day/week.
 
 ![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.activity_1.png)
 
 ## Contact Notes
 The *Contact Notes* tab shows the notes that have been added.
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.contact-notes_1.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.contact-notes_3.png)
 
 ## Timeline Credits
 The *Timeline Credits* tab shows credits earned by learning period and school year.
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.timeline.credits.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.timeline.credits_1.png)
 
 ## Learning Plan
 The *Learning Plan* tab shows the transcripts and the weekly progress.
