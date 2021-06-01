@@ -32,7 +32,7 @@ The *Student Profile* tab shows student name, student’s and parent’s contact
 ## Activity
 The *Activity* tab shows student’s credits and scores earned, etc.
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.activity.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.activity_1.png)
 
 ## Contact Notes
 The *Contact Notes* tab shows the notes that have been added.
