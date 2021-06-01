@@ -47,7 +47,7 @@ The *Timeline Credits* tab shows credits earned by learning period and school ye
 ## Learning Plan
 The *Learning Plan* tab shows the transcripts and the weekly progress.
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.learning-plan.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.learning-plan_1.png)
 
 ## Certificate of Completion
 
