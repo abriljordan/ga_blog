@@ -42,7 +42,7 @@ The *Contact Notes* tab shows the notes that have been added.
 ## Timeline Credits
 The *Timeline Credits* tab shows credits earned by learning period and school year.
 
-![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.timeline-credits.png)
+![Dashboard Interface]({{site.baseurl}}/assets/images/student-profile/student-profile.timeline.credits.png)
 
 ## Learning Plan
 The *Learning Plan* tab shows the transcripts and the weekly progress.
