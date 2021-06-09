@@ -51,7 +51,7 @@ Use the "Assignment List" to view a list of all assignments you've added for a c
 5. Click the Save button to save changes.
 
 **Option B :**
-**Assign work/assignments to a student**
+**Assign work/assignments to students**
 1. Go to the student lists.
 2. Select student from the list, then go to Action Box, then click Assign Assignment.
 3. Select assignment from the drop down list, then click Apply.
